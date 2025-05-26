@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import json
 import sys
 from pathlib import Path
@@ -34,8 +33,8 @@ def apply_translations_to_data(data: dict, flat: dict) -> int:
 
 def main():
     print("=== In-place Apply Translations ===")
-    inp = input("1) Enter path to your INPUT folder (nested JSONs): ").strip()
-    trans = input("2) Enter path to your TRANSLATIONS folder (flat JSONs): ").strip()
+    inp = input("1) Enter path to your INPUT folder (original JSONs): ").strip()
+    trans = input("2) Enter path to your TRANSLATIONS folder (extracted JSONs): ").strip()
 
     input_dir = Path(inp)
     trans_dir = Path(trans)
