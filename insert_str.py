@@ -3,57 +3,82 @@ import json
 import sys
 from pathlib import Path
 
-def extract_translations(flat_path: Path) -> dict:
+
+def load_flat_translations(flat_path: Path) -> dict:
     """
     Load the flat JSON of translations, which maps keys like
     "DLP_adventure_note_001_00_0" → "Translated text"
     """
-    if not flat_path.is_file():
-        print(f"[ERROR] Flat JSON not found: {flat_path}")
-        sys.exit(1)
-    return json.loads(flat_path.read_text(encoding='utf-8'))
+    try:
+        return json.loads(flat_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        print(f"[WARN] No translations found for: {flat_path}")
+        return {}
 
-def apply_to_file(orig_path: Path, flat: dict):
+
+def apply_translations_to_data(data: dict, flat: dict) -> int:
     """
-    Read the nested original JSON, replace any wordDataArray[*]['str']
-    whose key (labelName_idx) exists in flat, then overwrite the original.
+    Given the nested JSON data, replace any wordDataArray[*]['str']
+    whose key (labelName_idx) exists in flat, and return count of replacements.
     """
-    data = json.loads(orig_path.read_text(encoding='utf-8'))
     updated = 0
-
     for label in data.get("labelDataArray", []):
         label_name = label.get("labelName", "")
         for idx, word in enumerate(label.get("wordDataArray", [])):
             key = f"{label_name}_{idx}"
-            if key in flat:
+            if key in flat and flat[key].strip():
                 word["str"] = flat[key]
                 updated += 1
+    return updated
 
-    # backup original
-    bak_path = orig_path.with_suffix(orig_path.suffix + ".bak.json")
-    orig_path.rename(bak_path)
-
-    # write updated file
-    orig_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"[OK] Applied {updated} translations to {orig_path}")
-    print(f"[INFO] Original backed up as {bak_path}")
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python insert_str.py <path/to/classified_Files/.../file.json>")
+    print("=== In-place Apply Translations ===")
+    inp = input("1) Enter path to your INPUT folder (nested JSONs): ").strip()
+    trans = input("2) Enter path to your TRANSLATIONS folder (flat JSONs): ").strip()
+
+    input_dir = Path(inp)
+    trans_dir = Path(trans)
+
+    # Validate
+    if not input_dir.is_dir():
+        print(f"[ERROR] Input folder not found: {input_dir}")
+        sys.exit(1)
+    if not trans_dir.is_dir():
+        print(f"[ERROR] Translations folder not found: {trans_dir}")
         sys.exit(1)
 
-    orig_path = Path(sys.argv[1])
-    if not orig_path.is_file():
-        print(f"[ERROR] File not found: {orig_path}")
-        sys.exit(1)
+    total_files = 0
+    total_updates = 0
 
-    # Determine matching flat JSON in git_Localize/translate
-    project_root = Path(__file__).parent
-    rel = orig_path.relative_to(project_root / "classified_Files")
-    flat_path = project_root / "git_Localize" / "translate" / rel
+    for orig_path in input_dir.rglob("*.json"):
+        rel = orig_path.relative_to(input_dir)
+        flat_path = trans_dir / rel
 
-    apply_to_file(orig_path, extract_translations(flat_path))
+        # Load original
+        data = json.loads(orig_path.read_text(encoding="utf-8"))
+        flat = load_flat_translations(flat_path)
+        updated = apply_translations_to_data(data, flat)
+
+        if updated > 0:
+            # Backup original
+            bak_path = orig_path.with_suffix(orig_path.suffix + ".bak.json")
+            orig_path.rename(bak_path)
+            # Write updated file
+            orig_path.write_text(
+                json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+            print(f"[{rel}] → applied {updated} translations (backup: {bak_path.name})")
+        else:
+            print(f"[{rel}] → no translations to apply")
+
+        total_files += 1
+        total_updates += updated
+
+    print(
+        f"\nDone. Processed {total_files} files, applied {total_updates} translations in-place."
+    )
+
 
 if __name__ == "__main__":
     main()
