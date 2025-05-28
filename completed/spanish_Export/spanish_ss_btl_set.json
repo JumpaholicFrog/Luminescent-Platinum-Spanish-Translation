@@ -122791,12 +122791,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 1,
+                    "patternID": 0,
+                    "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¡El ",
-                    "strWidth": 109.828125
+                    "strWidth": 39.5625
                 },
                 {
                     "patternID": 5,
@@ -122860,8 +122860,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "El ",
-                    "strWidth": 177.046875
+                    "str": "¡El ",
+                    "strWidth": 39.5625
                 },
                 {
                     "patternID": 5,
@@ -122937,7 +122937,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¡El ",
-                    "strWidth": 115.4375
+                    "strWidth": 39.5625
                 },
                 {
                     "patternID": 5,
@@ -122958,7 +122958,7 @@
                 {
                     "patternID": 5,
                     "eventID": 0,
-                    "tagIndex": 0,
+                    "tagIndex": 1,
                     "tagValue": 0.0,
                     "str": "",
                     "strWidth": -1.0
@@ -123292,7 +123292,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "El ",
+                    "str": "¡El ",
                     "strWidth": 115.4375
                 },
                 {
