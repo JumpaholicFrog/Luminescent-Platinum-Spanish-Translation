@@ -122856,8 +122856,8 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 1,
+                    "patternID": 0,
+                    "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¡El ",
@@ -122876,7 +122876,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " rival",
+                    "str": " enemigo",
                     "strWidth": 115.4375
                 },
                 
@@ -122948,8 +122948,8 @@
                     "strWidth": -1.0
                 },
                 {
-                    "patternID": 7,
-                    "eventID": 3,
+                    "patternID": 0,
+                    "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": " de ",
@@ -123100,7 +123100,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " salvaje ",
+                    "str": " salvaje",
                     "strWidth": 115.4375
                 },
                 {
@@ -123199,7 +123199,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " rival",
+                    "str": " enemigo",
                     "strWidth": 115.4375
                 },
                 {

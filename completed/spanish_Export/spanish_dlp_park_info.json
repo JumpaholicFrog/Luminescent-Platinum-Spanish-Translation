@@ -25,13 +25,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -55,13 +49,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -101,13 +89,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -147,13 +129,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -169,7 +145,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Sientes un fuerte vínculo entre ella y la Sala del Descubrimiento",
+          "str": "Sientes un fuerte vínculo entre ella y la Sala del Origen",
           "strWidth": 726.46875
         },
         {
@@ -177,7 +153,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -193,13 +169,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -223,13 +193,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -253,13 +217,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -283,13 +241,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -313,7 +265,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Parque Destierro.",
+          "str": "Parque Renegado.",
           "strWidth": 185.953125
         }
       ]
@@ -329,13 +281,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -359,13 +305,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -389,13 +329,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -419,13 +353,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -449,7 +377,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Parque Destierro.",
+          "str": "Parque Renegado.",
           "strWidth": 185.953125
         }
       ]
@@ -465,13 +393,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -495,13 +417,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -525,13 +441,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -555,13 +465,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -585,7 +489,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Parque Destierro.",
+          "str": "Parque Renegado.",
           "strWidth": 185.953125
         }
       ]
@@ -601,13 +505,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -631,13 +529,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -661,13 +553,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -691,7 +577,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -707,13 +593,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -737,13 +617,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -767,7 +641,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Parque Destierro.",
+          "str": "Parque Renegado.",
           "strWidth": 185.953125
         }
       ]
@@ -783,13 +657,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -813,13 +681,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -843,7 +705,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -859,13 +721,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -889,13 +745,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -919,7 +769,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -935,13 +785,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -965,13 +809,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -995,7 +833,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 303.296875
         }
       ]
@@ -1011,13 +849,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -1041,13 +873,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -1071,7 +897,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -1087,13 +913,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -1117,13 +937,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        -1,
-        0,
-        0,
-        -1,
-        0
-      ],
+      "attributeValueArray": [-1, 0, 0, -1, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
@@ -1147,7 +961,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del Parque Destierro.",
+          "str": "del Parque Renegado.",
           "strWidth": 219.96875
         }
       ]
@@ -1163,13 +977,7 @@
         "maxWidth": 736,
         "controlID": 0
       },
-      "attributeValueArray": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "attributeValueArray": [0, 0, 0, 0, 0],
       "tagDataArray": [],
       "wordDataArray": [
         {
