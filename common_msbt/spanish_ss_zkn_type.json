@@ -309,7 +309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Armazón",
+                    "str": "Pokémon Armazón2",
                     "strWidth": 241.90625
                 }
             ]
@@ -489,7 +489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Abeja Veneno",
+                    "str": "Pokémon Abeja Veneno2",
                     "strWidth": 313.234375
                 }
             ]
@@ -609,7 +609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ratón",
+                    "str": "Pokémon Ratón2",
                     "strWidth": 204.046875
                 }
             ]
@@ -639,7 +639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ratón",
+                    "str": "Pokémon Ratón2",
                     "strWidth": 204.046875
                 }
             ]
@@ -909,7 +909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pin Veneno",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 276.734375
                 }
             ]
@@ -939,7 +939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pin Veneno",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 276.734375
                 }
             ]
@@ -999,7 +999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pin Veneno",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 276.734375
                 }
             ]
@@ -1029,7 +1029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pin Veneno",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 276.734375
                 }
             ]
@@ -1329,7 +1329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Hierbajo",
+                    "str": "Pokémon Hierbajo2",
                     "strWidth": 240.625
                 }
             ]
@@ -1359,7 +1359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Hierbajo",
+                    "str": "Pokémon Hierbajo2",
                     "strWidth": 240.625
                 }
             ]
@@ -1509,7 +1509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Polilla Venenosa",
+                    "str": "Pokémon Polilla Venenosa2",
                     "strWidth": 343.765625
                 }
             ]
@@ -1599,7 +1599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gato Araña",
+                    "str": "Pokémon Gato araña",
                     "strWidth": 278.796875
                 }
             ]
@@ -1629,7 +1629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gato Fino",
+                    "str": "Pokémon Gato fino",
                     "strWidth": 259.34375
                 }
             ]
@@ -1749,7 +1749,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Mono Cerdo",
+                    "str": "Pokémon Mono cerdo",
                     "strWidth": 293.203125
                 }
             ]
@@ -1809,7 +1809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Leyenda",
+                    "str": "Pokémon Leyenda1",
                     "strWidth": 237.78125
                 }
             ]
@@ -2139,7 +2139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Matamoscas",
+                    "str": "Pokémon Atrapamoscas1",
                     "strWidth": 287.125
                 }
             ]
@@ -2169,7 +2169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Matamoscas",
+                    "str": "Pokémon Atrapamoscas1",
                     "strWidth": 287.125
                 }
             ]
@@ -2349,7 +2349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Caballo Fuego",
+                    "str": "Pokémon Caballo Fuego1",
                     "strWidth": 318.875
                 }
             ]
@@ -2379,7 +2379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Caballo Fuego",
+                    "str": "Pokémon Caballo Fuego1",
                     "strWidth": 318.875
                 }
             ]
@@ -2529,7 +2529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pato Salvaje",
+                    "str": "Pokémon Pato Salvaje1",
                     "strWidth": 287.0
                 }
             ]
@@ -2559,7 +2559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ave Gemela",
+                    "str": "Pokémon Ave gemela",
                     "strWidth": 288.25
                 }
             ]
@@ -2589,7 +2589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ave Triple",
+                    "str": "Pokémon Ave triple",
                     "strWidth": 262.578125
                 }
             ]
@@ -2619,7 +2619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon León Marino",
+                    "str": "Pokémon León Marino1",
                     "strWidth": 291.96875
                 }
             ]
@@ -2649,7 +2649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon León Marino",
+                    "str": "Pokémon León Marino1",
                     "strWidth": 291.96875
                 }
             ]
@@ -2889,7 +2889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Serpiente Roca",
+                    "str": "Pokémon Serpiente Roca1",
                     "strWidth": 324.546875
                 }
             ]
@@ -3219,7 +3219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Patada",
+                    "str": "Pokémon Patada1",
                     "strWidth": 217.84375
                 }
             ]
@@ -3249,7 +3249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Puñetazo",
+                    "str": "Pokémon Puñetazo1",
                     "strWidth": 247.28125
                 }
             ]
@@ -3279,7 +3279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Lametazo",
+                    "str": "Pokémon Lametazo2",
                     "strWidth": 252.828125
                 }
             ]
@@ -3309,7 +3309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gas Venenoso",
+                    "str": "Pokémon Gas Venenoso1",
                     "strWidth": 316.078125
                 }
             ]
@@ -3339,7 +3339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gas Venenoso",
+                    "str": "Pokémon Gas Venenoso1",
                     "strWidth": 316.078125
                 }
             ]
@@ -3369,7 +3369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Clavos",
+                    "str": "Pokémon Punzante3",
                     "strWidth": 214.421875
                 }
             ]
@@ -3489,7 +3489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Maternal",
+                    "str": "Pokémon Maternal1",
                     "strWidth": 243.953125
                 }
             ]
@@ -3579,7 +3579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Color",
+                    "str": "Pokémon Pez color",
                     "strWidth": 254.296875
                 }
             ]
@@ -3609,7 +3609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Color",
+                    "str": "Pokémon Pez color",
                     "strWidth": 254.296875
                 }
             ]
@@ -3639,7 +3639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Estrella",
+                    "str": "Pokémon Estrella1",
                     "strWidth": 222.234375
                 }
             ]
@@ -3759,7 +3759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Forma Humana",
+                    "str": "Pokémon Forma Humana1",
                     "strWidth": 324.484375
                 }
             ]
@@ -3819,7 +3819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Escupefuego",
+                    "str": "Pokémon Escupefuego2",
                     "strWidth": 293.109375
                 }
             ]
@@ -3999,7 +3999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Transformación",
+                    "str": "Pokémon Transformación1",
                     "strWidth": 326.40625
                 }
             ]
@@ -4239,7 +4239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Armazón",
+                    "str": "Pokémon Armazón1",
                     "strWidth": 241.90625
                 }
             ]
@@ -4269,7 +4269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Armazón",
+                    "str": "Pokémon Armazón1",
                     "strWidth": 241.90625
                 }
             ]
@@ -4569,7 +4569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Nueva Especie",
+                    "str": "Pokémon Nueva Especie2",
                     "strWidth": 317.671875
                 }
             ]
@@ -4689,7 +4689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ratón Fuego",
+                    "str": "Pokémon Ratón Fuego2",
                     "strWidth": 293.765625
                 }
             ]
@@ -4779,7 +4779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Fauces",
+                    "str": "Pokémon Fauces1",
                     "strWidth": 216.8125
                 }
             ]
@@ -4809,7 +4809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Fauces",
+                    "str": "Pokémon Fauces1",
                     "strWidth": 216.8125
                 }
             ]
@@ -4839,7 +4839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Fauces",
+                    "str": "Pokémon Fauces1",
                     "strWidth": 216.8125
                 }
             ]
@@ -4989,7 +4989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon 5 Estrellas",
+                    "str": "Pokémon 5 Estrellas1",
                     "strWidth": 260.40625
                 }
             ]
@@ -5019,7 +5019,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon 5 Estrellas",
+                    "str": "Pokémon 5 Estrellas1",
                     "strWidth": 260.40625
                 }
             ]
@@ -5049,7 +5049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Escupehilo",
+                    "str": "Pokémon Escupehilo1",
                     "strWidth": 266.578125
                 }
             ]
@@ -5079,7 +5079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pata Larga",
+                    "str": "Pokémon Pata larga",
                     "strWidth": 265.34375
                 }
             ]
@@ -5229,7 +5229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Estrella",
+                    "str": "Pokémon Estrella1",
                     "strWidth": 222.234375
                 }
             ]
@@ -5289,7 +5289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Bolaclavos",
+                    "str": "Pokémon Bolapicuda2",
                     "strWidth": 265.671875
                 }
             ]
@@ -5529,7 +5529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ratón Agua",
+                    "str": "Pokémon Ratón Agua1",
                     "strWidth": 279.90625
                 }
             ]
@@ -5559,7 +5559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Conejo Agua",
+                    "str": "Pokémon Conejo Agua2",
                     "strWidth": 297.640625
                 }
             ]
@@ -5649,7 +5649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Diente León",
+                    "str": "Pokémon Diente León1",
                     "strWidth": 287.96875
                 }
             ]
@@ -5679,7 +5679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Diente León",
+                    "str": "Pokémon Diente León1",
                     "strWidth": 287.96875
                 }
             ]
@@ -5709,7 +5709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Diente León",
+                    "str": "Pokémon Diente León1",
                     "strWidth": 287.96875
                 }
             ]
@@ -5739,7 +5739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cola Larga",
+                    "str": "Pokémon Cola larga",
                     "strWidth": 268.90625
                 }
             ]
@@ -5829,7 +5829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ala Clara",
+                    "str": "Pokémon Ala clara",
                     "strWidth": 248.5
                 }
             ]
@@ -5859,7 +5859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Agua",
+                    "str": "Pokémon Pez agua",
                     "strWidth": 249.484375
                 }
             ]
@@ -5889,7 +5889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Agua",
+                    "str": "Pokémon Pez agua",
                     "strWidth": 249.484375
                 }
             ]
@@ -5949,7 +5949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Luz Lunar",
+                    "str": "Pokémon Luz lunar",
                     "strWidth": 251.671875
                 }
             ]
@@ -6129,7 +6129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gran Cuello",
+                    "str": "Pokémon Gran Cuello1",
                     "strWidth": 285.390625
                 }
             ]
@@ -6219,7 +6219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Serpiente Tierra",
+                    "str": "Pokémon Serpiente Tierra1",
                     "strWidth": 335.828125
                 }
             ]
@@ -6279,7 +6279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Serpiente Férrea",
+                    "str": "Pokémon Serpiente Férrea1",
                     "strWidth": 343.21875
                 }
             ]
@@ -6369,7 +6369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Globo",
+                    "str": "Pokémon Pez Globo",
                     "strWidth": 211.015625
                 }
             ]
@@ -6399,7 +6399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Tenaza",
+                    "str": "Pokémon Tenaza2",
                     "strWidth": 220.640625
                 }
             ]
@@ -6459,7 +6459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cuerno",
+                    "str": "Pokémon Cuerno1",
                     "strWidth": 222.53125
                 }
             ]
@@ -6489,7 +6489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Garra Filo",
+                    "str": "Pokémon Garra Filo1",
                     "strWidth": 258.953125
                 }
             ]
@@ -6849,7 +6849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Coraza Ave",
+                    "str": "Pokémon Coraza Ave1",
                     "strWidth": 277.875
                 }
             ]
@@ -7059,7 +7059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gran Cuerno",
+                    "str": "Pokémon Gran Cuerno1",
                     "strWidth": 295.0625
                 }
             ]
@@ -7149,7 +7149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Boca Abajo",
+                    "str": "Pokémon Boca abajo",
                     "strWidth": 277.890625
                 }
             ]
@@ -7419,7 +7419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Piel Roca",
+                    "str": "Pokémon Piel roca",
                     "strWidth": 248.6875
                 }
             ]
@@ -7539,7 +7539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Arcoíris",
+                    "str": "Pokémon Arcoíris2",
                     "strWidth": 225.625
                 }
             ]
@@ -7569,7 +7569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Viajetiempo",
+                    "str": "Pokémon Viajetiempo2",
                     "strWidth": 285.296875
                 }
             ]
@@ -7629,7 +7629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Geco Bosque",
+                    "str": "Pokémon Geco bosque",
                     "strWidth": 302.234375
                 }
             ]
@@ -7659,7 +7659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Monte",
+                    "str": "Pokémon Bosque1",
                     "strWidth": 213.078125
                 }
             ]
@@ -7719,7 +7719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ave Corral",
+                    "str": "Pokémon Ave corral",
                     "strWidth": 266.984375
                 }
             ]
@@ -7779,7 +7779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Lodo",
+                    "str": "Pokémon Pez lodo",
                     "strWidth": 248.859375
                 }
             ]
@@ -7809,7 +7809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Lodo",
+                    "str": "Pokémon Pez lodo",
                     "strWidth": 248.859375
                 }
             ]
@@ -8109,7 +8109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Polilla Venenosa",
+                    "str": "Pokémon Polilla Venenosa1",
                     "strWidth": 343.765625
                 }
             ]
@@ -8139,7 +8139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Lenteja Agua",
+                    "str": "Pokémon Lenteja Agua1",
                     "strWidth": 299.359375
                 }
             ]
@@ -8409,7 +8409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ave Agua",
+                    "str": "Pokémon Ave agua",
                     "strWidth": 254.375
                 }
             ]
@@ -8679,7 +8679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Mono Feroz",
+                    "str": "Pokémon Mono feroz",
                     "strWidth": 284.859375
                 }
             ]
@@ -8979,7 +8979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon A Topos",
+                    "str": "Pokémon A topos",
                     "strWidth": 237.34375
                 }
             ]
@@ -9159,7 +9159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Coraza Férrea",
+                    "str": "Pokémon Coraza Férrea1",
                     "strWidth": 310.40625
                 }
             ]
@@ -9189,7 +9189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Coraza Férrea",
+                    "str": "Pokémon Coraza Férrea1",
                     "strWidth": 310.40625
                 }
             ]
@@ -9219,7 +9219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Coraza Férrea",
+                    "str": "Pokémon Coraza Férrea1",
                     "strWidth": 310.40625
                 }
             ]
@@ -9549,7 +9549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Bolsa Veneno",
+                    "str": "Pokémon Bolsa Veneno1",
                     "strWidth": 306.328125
                 }
             ]
@@ -9639,7 +9639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ballenabola",
+                    "str": "Pokémon Ballena bola",
                     "strWidth": 280.84375
                 }
             ]
@@ -9849,7 +9849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Panda Topos",
+                    "str": "Pokémon Panda topos",
                     "strWidth": 296.953125
                 }
             ]
@@ -9879,7 +9879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Hormiga León",
+                    "str": "Pokémon Hormiga León1",
                     "strWidth": 311.328125
                 }
             ]
@@ -10029,7 +10029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Ave Algodón",
+                    "str": "Pokémon Ave algodón",
                     "strWidth": 298.453125
                 }
             ]
@@ -10089,7 +10089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gato Hurón",
+                    "str": "Pokémon Gato hurón",
                     "strWidth": 282.828125
                 }
             ]
@@ -10329,7 +10329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Muñeca Barro",
+                    "str": "Pokémon Muñeca Barro1",
                     "strWidth": 308.453125
                 }
             ]
@@ -10359,7 +10359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Muñeca Barro",
+                    "str": "Pokémon Muñeca Barro1",
                     "strWidth": 308.453125
                 }
             ]
@@ -10389,7 +10389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Lirio de Mar",
+                    "str": "Pokémon Lirio de Mar1",
                     "strWidth": 286.875
                 }
             ]
@@ -10779,7 +10779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Campanilla",
+                    "str": "Pokémon Campanilla1",
                     "strWidth": 273.203125
                 }
             ]
@@ -10869,7 +10869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gorro Nieve",
+                    "str": "Pokémon Gorro nieve",
                     "strWidth": 289.21875
                 }
             ]
@@ -11079,7 +11079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Mar del Sur",
+                    "str": "Pokémon Mar del sur",
                     "strWidth": 278.34375
                 }
             ]
@@ -11169,7 +11169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cabeza Roca",
+                    "str": "Pokémon Cabeza roca",
                     "strWidth": 298.140625
                 }
             ]
@@ -11259,7 +11259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Bola Hierro",
+                    "str": "Pokémon Bola hierro",
                     "strWidth": 276.625
                 }
             ]
@@ -11289,7 +11289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Garra Hierro",
+                    "str": "Pokémon Garra Hierro1",
                     "strWidth": 292.3125
                 }
             ]
@@ -11319,7 +11319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pata Hierro",
+                    "str": "Pokémon Pata hierro",
                     "strWidth": 276.0
                 }
             ]
@@ -11349,7 +11349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pico Roca",
+                    "str": "Pokémon Pico roca",
                     "strWidth": 256.046875
                 }
             ]
@@ -11499,7 +11499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cuenca Mar",
+                    "str": "Pokémon Cuenca mar",
                     "strWidth": 284.578125
                 }
             ]
@@ -12009,7 +12009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gran Ratón",
+                    "str": "Pokémon Gran ratón",
                     "strWidth": 276.578125
                 }
             ]
@@ -12189,7 +12189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Chispa Ojos",
+                    "str": "Pokémon Chispa ojos",
                     "strWidth": 284.90625
                 }
             ]
@@ -12579,7 +12579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Nutria Marina",
+                    "str": "Pokémon Nutria Marina1",
                     "strWidth": 306.25
                 }
             ]
@@ -12609,7 +12609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Nutria Marina",
+                    "str": "Pokémon Nutria Marina1",
                     "strWidth": 306.25
                 }
             ]
@@ -12699,7 +12699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Babosa Marina",
+                    "str": "Pokémon Babosa Marina1",
                     "strWidth": 320.265625
                 }
             ]
@@ -12729,7 +12729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Babosa Marina",
+                    "str": "Pokémon Babosa Marina1",
                     "strWidth": 320.265625
                 }
             ]
@@ -12759,7 +12759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cola Larga",
+                    "str": "Pokémon Cola larga",
                     "strWidth": 268.90625
                 }
             ]
@@ -12939,7 +12939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gran Jefe",
+                    "str": "Pokémon Gran jefe",
                     "strWidth": 255.21875
                 }
             ]
@@ -12999,7 +12999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Tigre Gato",
+                    "str": "Pokémon Tigre gato",
                     "strWidth": 269.390625
                 }
             ]
@@ -13029,7 +13029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cascabel",
+                    "str": "Pokémon Cascabel1",
                     "strWidth": 245.65625
                 }
             ]
@@ -13149,7 +13149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Campana Bronce",
+                    "str": "Pokémon Campana Bronce1",
                     "strWidth": 348.328125
                 }
             ]
@@ -13539,7 +13539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Peso Pesado",
+                    "str": "Pokémon Peso pesado",
                     "strWidth": 291.4375
                 }
             ]
@@ -13659,7 +13659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Boca Tóxica",
+                    "str": "Pokémon Boca tóxica",
                     "strWidth": 286.34375
                 }
             ]
@@ -13689,7 +13689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Cazabichos",
+                    "str": "Pokémon Cazabichos1",
                     "strWidth": 275.28125
                 }
             ]
@@ -13719,7 +13719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pez Ala",
+                    "str": "Pokémon Pez ala",
                     "strWidth": 225.5
                 }
             ]
@@ -13809,7 +13809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Árbol Nieve",
+                    "str": "Pokémon Árbol nieve",
                     "strWidth": 284.234375
                 }
             ]
@@ -13839,7 +13839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Árbol Nieve",
+                    "str": "Pokémon Árbol nieve",
                     "strWidth": 284.234375
                 }
             ]
@@ -13869,7 +13869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Garra Filo",
+                    "str": "Pokémon Garra filo",
                     "strWidth": 258.953125
                 }
             ]
@@ -14169,7 +14169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Nieve Fresca",
+                    "str": "Pokémon Nieve Fresca2",
                     "strWidth": 294.8125
                 }
             ]
@@ -14229,7 +14229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Doscolmillos",
+                    "str": "Pokémon Doscolmillos2",
                     "strWidth": 292.578125
                 }
             ]
@@ -14379,7 +14379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Tierra Fría",
+                    "str": "Pokémon Tierra fría",
                     "strWidth": 261.046875
                 }
             ]
@@ -14859,7 +14859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Victory Pokémon",
+                    "str": "Pokémon Victoria",
                     "strWidth": 270.0
                 }
             ]
@@ -14889,7 +14889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grass Snake Pokémon",
+                    "str": "Pokémon Serp. Hierba1",
                     "strWidth": 270.0
                 }
             ]
@@ -14919,7 +14919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grass Snake Pokémon",
+                    "str": "Pokémon Serp. Hierba1",
                     "strWidth": 270.0
                 }
             ]
@@ -14949,7 +14949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Regal Pokémon",
+                    "str": "Pokémon Realeza",
                     "strWidth": 270.0
                 }
             ]
@@ -14979,7 +14979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Pig Pokémon",
+                    "str": "Pokémon Cerdo fuego",
                     "strWidth": 270.0
                 }
             ]
@@ -15009,7 +15009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Pig Pokémon",
+                    "str": "Pokémon Cerdo fuego",
                     "strWidth": 270.0
                 }
             ]
@@ -15039,7 +15039,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mega Fire Pig Pokémon",
+                    "str": "Pokémon Cerdo Ígneo",
                     "strWidth": 270.0
                 }
             ]
@@ -15069,7 +15069,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sea Otter Pokémon",
+                    "str": "Pokémon Nutria",
                     "strWidth": 270.0
                 }
             ]
@@ -15099,7 +15099,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Discipline Pokémon",
+                    "str": "Pokémon Superación",
                     "strWidth": 270.0
                 }
             ]
@@ -15129,7 +15129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Formidable Pokémon",
+                    "str": "Pokémon Majestuoso",
                     "strWidth": 270.0
                 }
             ]
@@ -15159,7 +15159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scout Pokémon",
+                    "str": "Pokémon Explorador",
                     "strWidth": 270.0
                 }
             ]
@@ -15189,7 +15189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lookout Pokémon",
+                    "str": "Pokémon Alerta",
                     "strWidth": 270.0
                 }
             ]
@@ -15219,7 +15219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Puppy Pokémon",
+                    "str": "Pokémon Perrito",
                     "strWidth": 270.0
                 }
             ]
@@ -15249,7 +15249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Loyal Dog Pokémon",
+                    "str": "Pokémon Leal",
                     "strWidth": 270.0
                 }
             ]
@@ -15279,7 +15279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Big-Hearted Pokémon",
+                    "str": "Pokémon Magnánimo",
                     "strWidth": 270.0
                 }
             ]
@@ -15309,7 +15309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Devious Pokémon",
+                    "str": "Pokémon Malicioso",
                     "strWidth": 270.0
                 }
             ]
@@ -15339,7 +15339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cruel Pokémon",
+                    "str": "Pokémon Calculador",
                     "strWidth": 270.0
                 }
             ]
@@ -15369,7 +15369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grass Monkey Pokémon",
+                    "str": "Pokémon Mono hierba",
                     "strWidth": 270.0
                 }
             ]
@@ -15399,7 +15399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thorn Monkey Pokémon",
+                    "str": "Pokémon Mono pincho",
                     "strWidth": 270.0
                 }
             ]
@@ -15429,7 +15429,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "High Temp Pokémon",
+                    "str": "Pokémon Ardiente",
                     "strWidth": 270.0
                 }
             ]
@@ -15459,7 +15459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ember Pokémon",
+                    "str": "Pokémon Lumbre",
                     "strWidth": 270.0
                 }
             ]
@@ -15489,7 +15489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spray Pokémon",
+                    "str": "Pokémon Salpicadura",
                     "strWidth": 270.0
                 }
             ]
@@ -15519,7 +15519,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Geyser Pokémon",
+                    "str": "Pokémon Drenaje",
                     "strWidth": 270.0
                 }
             ]
@@ -15549,7 +15549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dream Eater Pokémon",
+                    "str": "Pokémon Comesueños",
                     "strWidth": 270.0
                 }
             ]
@@ -15579,7 +15579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Drowsing Pokémon",
+                    "str": "Pokémon Duermevela",
                     "strWidth": 270.0
                 }
             ]
@@ -15609,7 +15609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tiny Pigeon Pokémon",
+                    "str": "Pokémon Pichón",
                     "strWidth": 270.0
                 }
             ]
@@ -15639,7 +15639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wild Pigeon Pokémon",
+                    "str": "Pokémon Torcaz",
                     "strWidth": 270.0
                 }
             ]
@@ -15669,7 +15669,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Proud Pokémon",
+                    "str": "Pokémon Altanero",
                     "strWidth": 270.0
                 }
             ]
@@ -15699,7 +15699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Electrified Pokémon",
+                    "str": "Pokémon Electrizado",
                     "strWidth": 270.0
                 }
             ]
@@ -15729,7 +15729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thunderbolt Pokémon",
+                    "str": "Pokémon Rayo",
                     "strWidth": 270.0
                 }
             ]
@@ -15759,7 +15759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mantle Pokémon",
+                    "str": "Pokémon Manto",
                     "strWidth": 270.0
                 }
             ]
@@ -15789,7 +15789,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ore Pokémon",
+                    "str": "Pokémon Mineral",
                     "strWidth": 270.0
                 }
             ]
@@ -15819,7 +15819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Compressed Pokémon",
+                    "str": "Pokémon Presurizado",
                     "strWidth": 270.0
                 }
             ]
@@ -15849,7 +15849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bat Pokémon",
+                    "str": "Pokémon Murciélago",
                     "strWidth": 270.0
                 }
             ]
@@ -15879,7 +15879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Courting Pokémon",
+                    "str": "Pokémon Galante",
                     "strWidth": 270.0
                 }
             ]
@@ -15909,7 +15909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mole Pokémon",
+                    "str": "Pokémon Topo",
                     "strWidth": 270.0
                 }
             ]
@@ -15939,7 +15939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Subterrene Pokémon",
+                    "str": "Pokémon Subterráneo",
                     "strWidth": 270.0
                 }
             ]
@@ -15969,7 +15969,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hearing Pokémon",
+                    "str": "Pokémon Escucha",
                     "strWidth": 270.0
                 }
             ]
@@ -15999,7 +15999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Muscular Pokémon",
+                    "str": "Pokémon Musculoso",
                     "strWidth": 270.0
                 }
             ]
@@ -16029,7 +16029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Muscular Pokémon",
+                    "str": "Pokémon Musculoso",
                     "strWidth": 270.0
                 }
             ]
@@ -16059,7 +16059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Muscular Pokémon",
+                    "str": "Pokémon Musculoso",
                     "strWidth": 270.0
                 }
             ]
@@ -16089,7 +16089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tadpole Pokémon",
+                    "str": "Pokémon Renacuajo",
                     "strWidth": 270.0
                 }
             ]
@@ -16119,7 +16119,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Vibration Pokémon",
+                    "str": "Pokémon Vibrante",
                     "strWidth": 270.0
                 }
             ]
@@ -16149,7 +16149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Vibration Pokémon",
+                    "str": "Pokémon Vibrante",
                     "strWidth": 270.0
                 }
             ]
@@ -16179,7 +16179,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Judo Pokémon",
+                    "str": "Pokémon Judo",
                     "strWidth": 270.0
                 }
             ]
@@ -16209,7 +16209,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Karate Pokémon",
+                    "str": "Pokémon Kárate",
                     "strWidth": 270.0
                 }
             ]
@@ -16239,7 +16239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sewing Pokémon",
+                    "str": "Pokémon Sastre",
                     "strWidth": 270.0
                 }
             ]
@@ -16269,7 +16269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Leaf-Wrapped Pokémon",
+                    "str": "Pokémon Arropado",
                     "strWidth": 270.0
                 }
             ]
@@ -16299,7 +16299,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nurturing Pokémon",
+                    "str": "Pokémon Cuidador",
                     "strWidth": 270.0
                 }
             ]
@@ -16329,7 +16329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Centipede Pokémon",
+                    "str": "Pokémon Ciempiés",
                     "strWidth": 270.0
                 }
             ]
@@ -16359,7 +16359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Curlipede Pokémon",
+                    "str": "Pokémon Pupaciempiés",
                     "strWidth": 270.0
                 }
             ]
@@ -16389,7 +16389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Megapede Pokémon",
+                    "str": "Pokémon Megaciempiés",
                     "strWidth": 270.0
                 }
             ]
@@ -16419,7 +16419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cotton Puff Pokémon",
+                    "str": "Pokémon Bolalgodón",
                     "strWidth": 270.0
                 }
             ]
@@ -16449,7 +16449,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Windveiled Pokémon",
+                    "str": "Pokémon Vuelalviento",
                     "strWidth": 270.0
                 }
             ]
@@ -16479,7 +16479,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bulb Pokémon",
+                    "str": "Pokémon Bulbo",
                     "strWidth": 270.0
                 }
             ]
@@ -16509,7 +16509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flowering Pokémon",
+                    "str": "Pokémon Adornofloral",
                     "strWidth": 270.0
                 }
             ]
@@ -16539,7 +16539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hostile Pokémon",
+                    "str": "Pokémon ViolentoRR/RA\nMansoRB",
                     "strWidth": 270.0
                 }
             ]
@@ -16569,7 +16569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Desert Croc Pokémon",
+                    "str": "Pokémon Desierdrilo",
                     "strWidth": 270.0
                 }
             ]
@@ -16599,7 +16599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Desert Croc Pokémon",
+                    "str": "Pokémon Desierdrilo",
                     "strWidth": 270.0
                 }
             ]
@@ -16629,7 +16629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Intimidation Pokémon",
+                    "str": "Pokémon Amenazador",
                     "strWidth": 270.0
                 }
             ]
@@ -16659,7 +16659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Zen Charm Pokémon",
+                    "str": "Pokémon Daruma",
                     "strWidth": 270.0
                 }
             ]
@@ -16689,7 +16689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blazing Pokémon",
+                    "str": "Pokémon Candente",
                     "strWidth": 270.0
                 }
             ]
@@ -16719,7 +16719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cactus Pokémon",
+                    "str": "Pokémon Cactus",
                     "strWidth": 270.0
                 }
             ]
@@ -16749,7 +16749,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rock Inn Pokémon",
+                    "str": "Pokémon Casapiedra",
                     "strWidth": 270.0
                 }
             ]
@@ -16779,7 +16779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stone Home Pokémon",
+                    "str": "Pokémon Casarroca",
                     "strWidth": 270.0
                 }
             ]
@@ -16809,7 +16809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shedding Pokémon",
+                    "str": "Pokémon Mudapiel",
                     "strWidth": 270.0
                 }
             ]
@@ -16839,7 +16839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hoodlum Pokémon",
+                    "str": "Pokémon Gamberro",
                     "strWidth": 270.0
                 }
             ]
@@ -16869,7 +16869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Avianoid Pokémon",
+                    "str": "Pokémon Pseudopájaro",
                     "strWidth": 270.0
                 }
             ]
@@ -16899,7 +16899,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spirit Pokémon",
+                    "str": "Pokémon Espíritu",
                     "strWidth": 270.0
                 }
             ]
@@ -16929,7 +16929,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coffin Pokémon",
+                    "str": "Pokémon Sepultura",
                     "strWidth": 270.0
                 }
             ]
@@ -16959,7 +16959,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Prototurtle Pokémon",
+                    "str": "Pokémon Pretortuga",
                     "strWidth": 270.0
                 }
             ]
@@ -16989,7 +16989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Prototurtle Pokémon",
+                    "str": "Pokémon Pretortuga",
                     "strWidth": 270.0
                 }
             ]
@@ -17019,7 +17019,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "First Bird Pokémon",
+                    "str": "Pokémon Protopájaro",
                     "strWidth": 270.0
                 }
             ]
@@ -17049,7 +17049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "First Bird Pokémon",
+                    "str": "Pokémon Protopájaro",
                     "strWidth": 270.0
                 }
             ]
@@ -17079,7 +17079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Trash Bag Pokémon",
+                    "str": "Pokémon Bolsa Basura1",
                     "strWidth": 270.0
                 }
             ]
@@ -17109,7 +17109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Trash Heap Pokémon",
+                    "str": "Pokémon Vertedero",
                     "strWidth": 270.0
                 }
             ]
@@ -17139,7 +17139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tricky Fox Pokémon",
+                    "str": "Pokémon Zorro Pillo1",
                     "strWidth": 270.0
                 }
             ]
@@ -17169,7 +17169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Illusion Fox Pokémon",
+                    "str": "Pokémon Disfrazorro",
                     "strWidth": 270.0
                 }
             ]
@@ -17199,7 +17199,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chinchilla Pokémon",
+                    "str": "Pokémon Chinchilla",
                     "strWidth": 270.0
                 }
             ]
@@ -17229,7 +17229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scarf Pokémon",
+                    "str": "Pokémon Estola",
                     "strWidth": 270.0
                 }
             ]
@@ -17259,7 +17259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fixation Pokémon",
+                    "str": "Pokémon Inquisitivo",
                     "strWidth": 270.0
                 }
             ]
@@ -17289,7 +17289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Manipulate Pokémon",
+                    "str": "Pokémon Manipulador",
                     "strWidth": 270.0
                 }
             ]
@@ -17319,7 +17319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Astral Body Pokémon",
+                    "str": "Pokémon Astro",
                     "strWidth": 270.0
                 }
             ]
@@ -17349,7 +17349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cell Pokémon",
+                    "str": "Pokémon Célula",
                     "strWidth": 270.0
                 }
             ]
@@ -17379,7 +17379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mitosis Pokémon",
+                    "str": "Pokémon Mitosis",
                     "strWidth": 270.0
                 }
             ]
@@ -17409,7 +17409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Multiplying Pokémon",
+                    "str": "Pokémon Ampliación",
                     "strWidth": 270.0
                 }
             ]
@@ -17439,7 +17439,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Bird Pokémon",
+                    "str": "Pokémon Ave agua",
                     "strWidth": 270.0
                 }
             ]
@@ -17469,7 +17469,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "White Bird Pokémon",
+                    "str": "Pokémon Cisne",
                     "strWidth": 270.0
                 }
             ]
@@ -17499,7 +17499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fresh Snow Pokémon",
+                    "str": "Pokémon Nieve Fresca1",
                     "strWidth": 270.0
                 }
             ]
@@ -17529,7 +17529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Icy Snow Pokémon",
+                    "str": "Pokémon Nieve Helada1",
                     "strWidth": 270.0
                 }
             ]
@@ -17559,7 +17559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Snowstorm Pokémon",
+                    "str": "Pokémon Nieve Gélida1",
                     "strWidth": 270.0
                 }
             ]
@@ -17589,7 +17589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Season Pokémon",
+                    "str": "Pokémon Estacional",
                     "strWidth": 270.0
                 }
             ]
@@ -17619,7 +17619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Season Pokémon",
+                    "str": "Pokémon Estacional",
                     "strWidth": 270.0
                 }
             ]
@@ -17649,7 +17649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sky Squirrel Pokémon",
+                    "str": "Pokémon Vuelardilla",
                     "strWidth": 270.0
                 }
             ]
@@ -17679,7 +17679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Clamping Pokémon",
+                    "str": "Pokémon Bocado",
                     "strWidth": 270.0
                 }
             ]
@@ -17709,7 +17709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cavalry Pokémon",
+                    "str": "Pokémon Soldado",
                     "strWidth": 270.0
                 }
             ]
@@ -17739,7 +17739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mushroom Pokémon",
+                    "str": "Pokémon Hongo",
                     "strWidth": 270.0
                 }
             ]
@@ -17769,7 +17769,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mushroom Pokémon",
+                    "str": "Pokémon Hongo",
                     "strWidth": 270.0
                 }
             ]
@@ -17799,7 +17799,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Floating Pokémon",
+                    "str": "Pokémon Ingrávido",
                     "strWidth": 270.0
                 }
             ]
@@ -17829,7 +17829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Floating Pokémon",
+                    "str": "Pokémon Ingrávido",
                     "strWidth": 270.0
                 }
             ]
@@ -17859,7 +17859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Caring Pokémon",
+                    "str": "Pokémon Socorrista",
                     "strWidth": 270.0
                 }
             ]
@@ -17889,7 +17889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Attaching Pokémon",
+                    "str": "Pokémon Lapa",
                     "strWidth": 270.0
                 }
             ]
@@ -17919,7 +17919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EleSpider Pokémon",
+                    "str": "Pokémon Electroaraña",
                     "strWidth": 270.0
                 }
             ]
@@ -17949,7 +17949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thorn Seed Pokémon",
+                    "str": "Pokémon Fruto Espina1",
                     "strWidth": 270.0
                 }
             ]
@@ -17979,7 +17979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thorn Pod Pokémon",
+                    "str": "Pokémon Bola Espina1",
                     "strWidth": 270.0
                 }
             ]
@@ -18009,7 +18009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gear Pokémon",
+                    "str": "Pokémon Engranaje",
                     "strWidth": 270.0
                 }
             ]
@@ -18039,7 +18039,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gear Pokémon",
+                    "str": "Pokémon Engranaje",
                     "strWidth": 270.0
                 }
             ]
@@ -18069,7 +18069,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gear Pokémon",
+                    "str": "Pokémon Engranaje",
                     "strWidth": 270.0
                 }
             ]
@@ -18099,7 +18099,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EleFish Pokémon",
+                    "str": "Pokémon Electropez",
                     "strWidth": 270.0
                 }
             ]
@@ -18129,7 +18129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EleFish Pokémon",
+                    "str": "Pokémon Electropez",
                     "strWidth": 270.0
                 }
             ]
@@ -18159,7 +18159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EleFish Pokémon",
+                    "str": "Pokémon Electropez",
                     "strWidth": 270.0
                 }
             ]
@@ -18189,7 +18189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cerebral Pokémon",
+                    "str": "Pokémon Cerebro",
                     "strWidth": 270.0
                 }
             ]
@@ -18219,7 +18219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cerebral Pokémon",
+                    "str": "Pokémon Cerebro",
                     "strWidth": 270.0
                 }
             ]
@@ -18339,7 +18339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tusk Pokémon",
+                    "str": "Pokémon Colmillo",
                     "strWidth": 270.0
                 }
             ]
@@ -18369,7 +18369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Axe Jaw Pokémon",
+                    "str": "Pokémon Boca Hacha1",
                     "strWidth": 270.0
                 }
             ]
@@ -18399,7 +18399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Axe Jaw Pokémon",
+                    "str": "Pokémon Boca Hacha1",
                     "strWidth": 270.0
                 }
             ]
@@ -18429,7 +18429,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chill Pokémon",
+                    "str": "Pokémon Congelación",
                     "strWidth": 270.0
                 }
             ]
@@ -18459,7 +18459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Freezing Pokémon",
+                    "str": "Pokémon Glaciación",
                     "strWidth": 270.0
                 }
             ]
@@ -18489,7 +18489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Crystallizing Pokémon",
+                    "str": "Pokémon Cristal",
                     "strWidth": 270.0
                 }
             ]
@@ -18519,7 +18519,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Snail Pokémon",
+                    "str": "Pokémon Caracol",
                     "strWidth": 270.0
                 }
             ]
@@ -18549,7 +18549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shell Out Pokémon",
+                    "str": "Pokémon Sincaparazón",
                     "strWidth": 270.0
                 }
             ]
@@ -18579,7 +18579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Trap Pokémon",
+                    "str": "Pokémon Trampa",
                     "strWidth": 270.0
                 }
             ]
@@ -18609,7 +18609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Martial Arts Pokémon",
+                    "str": "Pokémon Arte Marcial1",
                     "strWidth": 270.0
                 }
             ]
@@ -18639,7 +18639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Martial Arts Pokémon",
+                    "str": "Pokémon Arte Marcial1",
                     "strWidth": 270.0
                 }
             ]
@@ -18669,7 +18669,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cave Pokémon",
+                    "str": "Pokémon Cueva",
                     "strWidth": 270.0
                 }
             ]
@@ -18699,7 +18699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Automaton Pokémon",
+                    "str": "Pokémon Autómata",
                     "strWidth": 270.0
                 }
             ]
@@ -18729,7 +18729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Automaton Pokémon",
+                    "str": "Pokémon Autómata",
                     "strWidth": 270.0
                 }
             ]
@@ -18759,7 +18759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sharp Blade Pokémon",
+                    "str": "Pokémon Tajo",
                     "strWidth": 270.0
                 }
             ]
@@ -18789,7 +18789,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sword Blade Pokémon",
+                    "str": "Pokémon Filo",
                     "strWidth": 270.0
                 }
             ]
@@ -18819,7 +18819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bash Buffalo Pokémon",
+                    "str": "Pokémon Torocabezazo",
                     "strWidth": 270.0
                 }
             ]
@@ -18849,7 +18849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Eaglet Pokémon",
+                    "str": "Pokémon Aguilucho",
                     "strWidth": 270.0
                 }
             ]
@@ -18879,7 +18879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Valiant Pokémon",
+                    "str": "Pokémon Aguerrido",
                     "strWidth": 270.0
                 }
             ]
@@ -18909,7 +18909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Diapered Pokémon",
+                    "str": "Pokémon Pañal",
                     "strWidth": 270.0
                 }
             ]
@@ -18939,7 +18939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bone Vulture Pokémon",
+                    "str": "Pokémon Buitre Hueso1",
                     "strWidth": 270.0
                 }
             ]
@@ -18969,7 +18969,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Anteater Pokémon",
+                    "str": "Pokémon Hormiguero",
                     "strWidth": 270.0
                 }
             ]
@@ -18999,7 +18999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Ant Pokémon",
+                    "str": "Pokémon Hormigacero",
                     "strWidth": 270.0
                 }
             ]
@@ -19029,7 +19029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Irate Pokémon",
+                    "str": "Pokémon Tosco",
                     "strWidth": 270.0
                 }
             ]
@@ -19059,7 +19059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hostile Pokémon",
+                    "str": "Pokémon Violento",
                     "strWidth": 270.0
                 }
             ]
@@ -19089,7 +19089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brutal Pokémon",
+                    "str": "Pokémon Voraz",
                     "strWidth": 270.0
                 }
             ]
@@ -19119,7 +19119,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Torch Pokémon",
+                    "str": "Pokémon Antorcha",
                     "strWidth": 270.0
                 }
             ]
@@ -19149,7 +19149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sun Pokémon",
+                    "str": "Pokémon Sol",
                     "strWidth": 270.0
                 }
             ]
@@ -19179,7 +19179,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Will Pokémon",
+                    "str": "Pokémon Tesón acero",
                     "strWidth": 270.0
                 }
             ]
@@ -19209,7 +19209,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cavern Pokémon",
+                    "str": "Pokémon Gruta",
                     "strWidth": 270.0
                 }
             ]
@@ -19239,7 +19239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grassland Pokémon",
+                    "str": "Pokémon Prado",
                     "strWidth": 270.0
                 }
             ]
@@ -19269,7 +19269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cyclone Pokémon",
+                    "str": "Pokémon Torbellino",
                     "strWidth": 270.0
                 }
             ]
@@ -19299,7 +19299,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bolt Strike Pokémon",
+                    "str": "Pokémon Centella",
                     "strWidth": 270.0
                 }
             ]
@@ -19329,7 +19329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Vast White Pokémon",
+                    "str": "Pokémon Blanco veraz",
                     "strWidth": 270.0
                 }
             ]
@@ -19359,7 +19359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Deep Black Pokémon",
+                    "str": "Pokémon Negro puro",
                     "strWidth": 270.0
                 }
             ]
@@ -19389,7 +19389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Abundance Pokémon",
+                    "str": "Pokémon Fertilidad",
                     "strWidth": 270.0
                 }
             ]
@@ -19419,7 +19419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Boundary Pokémon",
+                    "str": "Pokémon Frontera",
                     "strWidth": 270.0
                 }
             ]
@@ -19449,7 +19449,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Colt Pokémon",
+                    "str": "Pokémon Potro",
                     "strWidth": 270.0
                 }
             ]
@@ -19479,7 +19479,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Melody Pokémon",
+                    "str": "Pokémon Melodía",
                     "strWidth": 270.0
                 }
             ]
@@ -19509,7 +19509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Paleozoic Pokémon",
+                    "str": "Pokémon Paleozoico",
                     "strWidth": 270.0
                 }
             ]
@@ -19539,7 +19539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spiny Nut Pokémon",
+                    "str": "Pokémon Erizo",
                     "strWidth": 270.0
                 }
             ]
@@ -19569,7 +19569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spiny Armor Pokémon",
+                    "str": "Pokémon Corazaespín",
                     "strWidth": 270.0
                 }
             ]
@@ -19599,7 +19599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spiny Armor Pokémon",
+                    "str": "Pokémon Corazaespín",
                     "strWidth": 270.0
                 }
             ]
@@ -19629,7 +19629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fox Pokémon",
+                    "str": "Pokémon Zorro",
                     "strWidth": 270.0
                 }
             ]
@@ -19659,7 +19659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fox Pokémon",
+                    "str": "Pokémon Zorro",
                     "strWidth": 270.0
                 }
             ]
@@ -19689,7 +19689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fox Pokémon",
+                    "str": "Pokémon Zorro",
                     "strWidth": 270.0
                 }
             ]
@@ -19719,7 +19719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bubble Frog Pokémon",
+                    "str": "Pokémon Burburrana",
                     "strWidth": 270.0
                 }
             ]
@@ -19749,7 +19749,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bubble Frog Pokémon",
+                    "str": "Pokémon Burburrana",
                     "strWidth": 270.0
                 }
             ]
@@ -19779,7 +19779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ninja Pokémon",
+                    "str": "Pokémon Ninja",
                     "strWidth": 270.0
                 }
             ]
@@ -19809,7 +19809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Digging Pokémon",
+                    "str": "Pokémon Excavador",
                     "strWidth": 270.0
                 }
             ]
@@ -19839,7 +19839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Digging Pokémon",
+                    "str": "Pokémon Excavador",
                     "strWidth": 270.0
                 }
             ]
@@ -19869,7 +19869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tiny Robin Pokémon",
+                    "str": "Pokémon Petirrojo",
                     "strWidth": 270.0
                 }
             ]
@@ -19899,7 +19899,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ember Pokémon",
+                    "str": "Pokémon Lumbre",
                     "strWidth": 270.0
                 }
             ]
@@ -19929,7 +19929,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scorching Pokémon",
+                    "str": "Pokémon Flamígero",
                     "strWidth": 270.0
                 }
             ]
@@ -19959,7 +19959,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scatterdust Pokémon",
+                    "str": "Pokémon Tiraescamas",
                     "strWidth": 270.0
                 }
             ]
@@ -19989,7 +19989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scatterdust Pokémon",
+                    "str": "Pokémon Tiraescamas",
                     "strWidth": 270.0
                 }
             ]
@@ -20019,7 +20019,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scale Pokémon",
+                    "str": "Pokémon Escamaposa",
                     "strWidth": 270.0
                 }
             ]
@@ -20049,7 +20049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lion Cub Pokémon",
+                    "str": "Pokémon Leoncito",
                     "strWidth": 270.0
                 }
             ]
@@ -20079,7 +20079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Royal Pokémon",
+                    "str": "Pokémon Regio",
                     "strWidth": 270.0
                 }
             ]
@@ -20109,7 +20109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Single Bloom Pokémon",
+                    "str": "Pokémon Monoflor",
                     "strWidth": 270.0
                 }
             ]
@@ -20139,7 +20139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Single Bloom Pokémon",
+                    "str": "Pokémon Monoflor",
                     "strWidth": 270.0
                 }
             ]
@@ -20169,7 +20169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Garden Pokémon",
+                    "str": "Pokémon Jardín",
                     "strWidth": 270.0
                 }
             ]
@@ -20199,7 +20199,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mount Pokémon",
+                    "str": "Pokémon Montura",
                     "strWidth": 270.0
                 }
             ]
@@ -20229,7 +20229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mount Pokémon",
+                    "str": "Pokémon Montura",
                     "strWidth": 270.0
                 }
             ]
@@ -20259,7 +20259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Playful Pokémon",
+                    "str": "Pokémon Juguetón",
                     "strWidth": 270.0
                 }
             ]
@@ -20289,7 +20289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Daunting Pokémon",
+                    "str": "Pokémon Rostro fiero",
                     "strWidth": 270.0
                 }
             ]
@@ -20319,7 +20319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Poodle Pokémon",
+                    "str": "Pokémon Caniche",
                     "strWidth": 270.0
                 }
             ]
@@ -20349,7 +20349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Restraint Pokémon",
+                    "str": "Pokémon Moderación",
                     "strWidth": 270.0
                 }
             ]
@@ -20379,7 +20379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Constraint Pokémon",
+                    "str": "Pokémon Autocontrol",
                     "strWidth": 270.0
                 }
             ]
@@ -20409,7 +20409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sword Pokémon",
+                    "str": "Pokémon Tizona",
                     "strWidth": 270.0
                 }
             ]
@@ -20439,7 +20439,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sword Pokémon",
+                    "str": "Pokémon Tizona",
                     "strWidth": 270.0
                 }
             ]
@@ -20469,7 +20469,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Royal Sword Pokémon",
+                    "str": "Pokémon Espada real",
                     "strWidth": 270.0
                 }
             ]
@@ -20499,7 +20499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Perfume Pokémon",
+                    "str": "Pokémon Aroma",
                     "strWidth": 270.0
                 }
             ]
@@ -20529,7 +20529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fragrance Pokémon",
+                    "str": "Pokémon Fragancia",
                     "strWidth": 270.0
                 }
             ]
@@ -20559,7 +20559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cotton Candy Pokémon",
+                    "str": "Pokémon Chuchería",
                     "strWidth": 270.0
                 }
             ]
@@ -20589,7 +20589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Meringue Pokémon",
+                    "str": "Pokémon Nata",
                     "strWidth": 270.0
                 }
             ]
@@ -20619,7 +20619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Revolving Pokémon",
+                    "str": "Pokémon Rotación",
                     "strWidth": 270.0
                 }
             ]
@@ -20649,7 +20649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Overturning Pokémon",
+                    "str": "Pokémon Revolución",
                     "strWidth": 270.0
                 }
             ]
@@ -20679,7 +20679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Two-Handed Pokémon",
+                    "str": "Pokémon Dos manos",
                     "strWidth": 270.0
                 }
             ]
@@ -20709,7 +20709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Collective Pokémon",
+                    "str": "Pokémon Combinación",
                     "strWidth": 270.0
                 }
             ]
@@ -20739,7 +20739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mock Kelp Pokémon",
+                    "str": "Pokémon Pseudoalga",
                     "strWidth": 270.0
                 }
             ]
@@ -20769,7 +20769,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mock Kelp Pokémon",
+                    "str": "Pokémon Pseudoalga",
                     "strWidth": 270.0
                 }
             ]
@@ -20799,7 +20799,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Gun Pokémon",
+                    "str": "Pokémon Proyectagua",
                     "strWidth": 270.0
                 }
             ]
@@ -20829,7 +20829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Howitzer Pokémon",
+                    "str": "Pokémon Lanzachorro",
                     "strWidth": 270.0
                 }
             ]
@@ -20859,7 +20859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Generator Pokémon",
+                    "str": "Pokémon Generador",
                     "strWidth": 270.0
                 }
             ]
@@ -20889,7 +20889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Generator Pokémon",
+                    "str": "Pokémon Generador",
                     "strWidth": 270.0
                 }
             ]
@@ -20919,7 +20919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Royal Heir Pokémon",
+                    "str": "Pokémon Heredero",
                     "strWidth": 270.0
                 }
             ]
@@ -20949,7 +20949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Despot Pokémon",
+                    "str": "Pokémon Tirano",
                     "strWidth": 270.0
                 }
             ]
@@ -20979,7 +20979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tundra Pokémon",
+                    "str": "Pokémon Tundra",
                     "strWidth": 270.0
                 }
             ]
@@ -21009,7 +21009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tundra Pokémon",
+                    "str": "Pokémon Tundra",
                     "strWidth": 270.0
                 }
             ]
@@ -21069,7 +21069,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wrestling Pokémon",
+                    "str": "Pokémon Lucha libre",
                     "strWidth": 270.0
                 }
             ]
@@ -21099,7 +21099,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Antenna Pokémon",
+                    "str": "Pokémon Antenas",
                     "strWidth": 270.0
                 }
             ]
@@ -21129,7 +21129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jewel Pokémon",
+                    "str": "Pokémon Joya",
                     "strWidth": 270.0
                 }
             ]
@@ -21159,7 +21159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Soft Tissue Pokémon",
+                    "str": "Pokémon Molusco",
                     "strWidth": 270.0
                 }
             ]
@@ -21189,7 +21189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Soft Tissue Pokémon",
+                    "str": "Pokémon Molusco",
                     "strWidth": 270.0
                 }
             ]
@@ -21219,7 +21219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dragon Pokémon",
+                    "str": "Pokémon Dragón",
                     "strWidth": 270.0
                 }
             ]
@@ -21249,7 +21249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Key Ring Pokémon",
+                    "str": "Pokémon Llavero",
                     "strWidth": 270.0
                 }
             ]
@@ -21279,7 +21279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stump Pokémon",
+                    "str": "Pokémon Tocón",
                     "strWidth": 270.0
                 }
             ]
@@ -21309,7 +21309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Elder Tree Pokémon",
+                    "str": "Pokémon Árbol viejo",
                     "strWidth": 270.0
                 }
             ]
@@ -21339,7 +21339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pumpkin Pokémon",
+                    "str": "Pokémon Calabaza",
                     "strWidth": 270.0
                 }
             ]
@@ -21369,7 +21369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pumpkin Pokémon",
+                    "str": "Pokémon Calabaza",
                     "strWidth": 270.0
                 }
             ]
@@ -21399,7 +21399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ice Chunk Pokémon",
+                    "str": "Pokémon Témpano",
                     "strWidth": 270.0
                 }
             ]
@@ -21429,7 +21429,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iceberg Pokémon",
+                    "str": "Pokémon Iceberg",
                     "strWidth": 270.0
                 }
             ]
@@ -21459,7 +21459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sound Wave Pokémon",
+                    "str": "Pokémon Onda sónica",
                     "strWidth": 270.0
                 }
             ]
@@ -21489,7 +21489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sound Wave Pokémon",
+                    "str": "Pokémon Onda sónica",
                     "strWidth": 270.0
                 }
             ]
@@ -21519,7 +21519,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Life Pokémon",
+                    "str": "Pokémon Creación",
                     "strWidth": 270.0
                 }
             ]
@@ -21549,7 +21549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Destruction Pokémon",
+                    "str": "Pokémon Destrucción",
                     "strWidth": 270.0
                 }
             ]
@@ -21579,7 +21579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Order Pokémon",
+                    "str": "Pokémon Equilibrio",
                     "strWidth": 270.0
                 }
             ]
@@ -21609,7 +21609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jewel Pokémon",
+                    "str": "Pokémon Joya",
                     "strWidth": 270.0
                 }
             ]
@@ -21639,7 +21639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mischief Pokémon",
+                    "str": "Pokémon TravesuraC\nGenio burlónD",
                     "strWidth": 270.0
                 }
             ]
@@ -21669,7 +21669,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Steam Pokémon",
+                    "str": "Pokémon Vapor",
                     "strWidth": 270.0
                 }
             ]
@@ -21699,7 +21699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grass Quill Pokémon",
+                    "str": "Pokémon Pluma hoja",
                     "strWidth": 270.0
                 }
             ]
@@ -21729,7 +21729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blade Quill Pokémon",
+                    "str": "Pokémon Pluma Filo",
                     "strWidth": 270.0
                 }
             ]
@@ -21759,7 +21759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Arrow Quill Pokémon",
+                    "str": "Pokémon Pluma Flecha",
                     "strWidth": 270.0
                 }
             ]
@@ -21789,7 +21789,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Cat Pokémon",
+                    "str": "Pokémon Gato fuego",
                     "strWidth": 270.0
                 }
             ]
@@ -21819,7 +21819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Cat Pokémon",
+                    "str": "Pokémon Gato fuego",
                     "strWidth": 270.0
                 }
             ]
@@ -21849,7 +21849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Heel Pokémon",
+                    "str": "Pokémon Rudo",
                     "strWidth": 270.0
                 }
             ]
@@ -21879,7 +21879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sea Lion Pokémon",
+                    "str": "Pokémon León marino",
                     "strWidth": 270.0
                 }
             ]
@@ -21909,7 +21909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pop Star Pokémon",
+                    "str": "Pokémon Fama",
                     "strWidth": 270.0
                 }
             ]
@@ -21939,7 +21939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Soloist Pokémon",
+                    "str": "Pokémon Solista",
                     "strWidth": 270.0
                 }
             ]
@@ -21969,7 +21969,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Woodpecker Pokémon",
+                    "str": "Pokémon Carpintero",
                     "strWidth": 270.0
                 }
             ]
@@ -21999,7 +21999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bugle Beak Pokémon",
+                    "str": "Pokémon Trompeta",
                     "strWidth": 270.0
                 }
             ]
@@ -22029,7 +22029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cannon Pokémon",
+                    "str": "Pokémon Cañón",
                     "strWidth": 270.0
                 }
             ]
@@ -22059,7 +22059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Loitering Pokémon",
+                    "str": "Pokémon Patrulla",
                     "strWidth": 270.0
                 }
             ]
@@ -22089,7 +22089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stakeout Pokémon",
+                    "str": "Pokémon Vigilante",
                     "strWidth": 270.0
                 }
             ]
@@ -22119,7 +22119,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Larva Pokémon",
+                    "str": "Pokémon Pupa",
                     "strWidth": 270.0
                 }
             ]
@@ -22149,7 +22149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Battery Pokémon",
+                    "str": "Pokémon Batería",
                     "strWidth": 270.0
                 }
             ]
@@ -22179,7 +22179,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stag Beetle Pokémon",
+                    "str": "Pokémon Escarabajo",
                     "strWidth": 270.0
                 }
             ]
@@ -22209,7 +22209,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Boxing Pokémon",
+                    "str": "Pokémon Púgil",
                     "strWidth": 270.0
                 }
             ]
@@ -22239,7 +22239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Woolly Crab Pokémon",
+                    "str": "Pokémon Cangrejopelo",
                     "strWidth": 270.0
                 }
             ]
@@ -22269,7 +22269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dancing Pokémon",
+                    "str": "Pokémon Danza",
                     "strWidth": 270.0
                 }
             ]
@@ -22299,7 +22299,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bee Fly Pokémon",
+                    "str": "Pokémon Mosca abeja",
                     "strWidth": 270.0
                 }
             ]
@@ -22329,7 +22329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bee Fly Pokémon",
+                    "str": "Pokémon Mosca abeja",
                     "strWidth": 270.0
                 }
             ]
@@ -22359,7 +22359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Puppy Pokémon",
+                    "str": "Pokémon Perrito",
                     "strWidth": 270.0
                 }
             ]
@@ -22389,7 +22389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wolf Pokémon",
+                    "str": "Pokémon Lobo",
                     "strWidth": 270.0
                 }
             ]
@@ -22419,7 +22419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Small Fry Pokémon",
+                    "str": "Pokémon Pececillo",
                     "strWidth": 270.0
                 }
             ]
@@ -22449,7 +22449,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brutal Star Pokémon",
+                    "str": "Pokémon Estrellatroz",
                     "strWidth": 270.0
                 }
             ]
@@ -22479,7 +22479,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brutal Star Pokémon",
+                    "str": "Pokémon Estrellatroz",
                     "strWidth": 270.0
                 }
             ]
@@ -22509,7 +22509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Donkey Pokémon",
+                    "str": "Pokémon Asno",
                     "strWidth": 270.0
                 }
             ]
@@ -22539,7 +22539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Draft Horse Pokémon",
+                    "str": "Pokémon Caballo tiro",
                     "strWidth": 270.0
                 }
             ]
@@ -22569,7 +22569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Bubble Pokémon",
+                    "str": "Pokémon Pompa",
                     "strWidth": 270.0
                 }
             ]
@@ -22599,7 +22599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Bubble Pokémon",
+                    "str": "Pokémon Pompa",
                     "strWidth": 270.0
                 }
             ]
@@ -22629,7 +22629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sickle Grass Pokémon",
+                    "str": "Pokémon Filo hoja",
                     "strWidth": 270.0
                 }
             ]
@@ -22659,7 +22659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bloom Sickle Pokémon",
+                    "str": "Pokémon Filo flor",
                     "strWidth": 270.0
                 }
             ]
@@ -22689,7 +22689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Illuminating Pokémon",
+                    "str": "Pokémon Luminiscente",
                     "strWidth": 270.0
                 }
             ]
@@ -22719,7 +22719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Illuminating Pokémon",
+                    "str": "Pokémon Luminiscente",
                     "strWidth": 270.0
                 }
             ]
@@ -22749,7 +22749,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toxic Lizard Pokémon",
+                    "str": "Pokémon Lagartoxina",
                     "strWidth": 270.0
                 }
             ]
@@ -22779,7 +22779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toxic Lizard Pokémon",
+                    "str": "Pokémon Lagartoxina",
                     "strWidth": 270.0
                 }
             ]
@@ -22809,7 +22809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flailing Pokémon",
+                    "str": "Pokémon Rabieta",
                     "strWidth": 270.0
                 }
             ]
@@ -22839,7 +22839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Strong Arm Pokémon",
+                    "str": "Pokémon Brazo Fuerte",
                     "strWidth": 270.0
                 }
             ]
@@ -22869,7 +22869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fruit Pokémon",
+                    "str": "Pokémon Fruto",
                     "strWidth": 270.0
                 }
             ]
@@ -22899,7 +22899,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fruit Pokémon",
+                    "str": "Pokémon Fruto",
                     "strWidth": 270.0
                 }
             ]
@@ -22929,7 +22929,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fruit Pokémon",
+                    "str": "Pokémon Fruto",
                     "strWidth": 270.0
                 }
             ]
@@ -22959,7 +22959,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Posy Picker Pokémon",
+                    "str": "Pokémon Recogeflores",
                     "strWidth": 270.0
                 }
             ]
@@ -22989,7 +22989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sage Pokémon",
+                    "str": "Pokémon Sabio",
                     "strWidth": 270.0
                 }
             ]
@@ -23019,7 +23019,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Teamwork Pokémon",
+                    "str": "Pokémon Cooperación",
                     "strWidth": 270.0
                 }
             ]
@@ -23049,7 +23049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Turn Tail Pokémon",
+                    "str": "Pokémon Huidizo",
                     "strWidth": 270.0
                 }
             ]
@@ -23079,7 +23079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hard Scale Pokémon",
+                    "str": "Pokémon Blindaje",
                     "strWidth": 270.0
                 }
             ]
@@ -23109,7 +23109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sand Heap Pokémon",
+                    "str": "Pokémon Montearena",
                     "strWidth": 270.0
                 }
             ]
@@ -23139,7 +23139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sand Castle Pokémon",
+                    "str": "Pokémon Castiarena",
                     "strWidth": 270.0
                 }
             ]
@@ -23169,7 +23169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sea Cucumber Pokémon",
+                    "str": "Pokémon Pepino mar",
                     "strWidth": 270.0
                 }
             ]
@@ -23199,7 +23199,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Synthetic Pokémon",
+                    "str": "Pokémon Multigénico",
                     "strWidth": 270.0
                 }
             ]
@@ -23229,7 +23229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Synthetic Pokémon",
+                    "str": "Pokémon Multigénico",
                     "strWidth": 270.0
                 }
             ]
@@ -23259,7 +23259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Meteor Pokémon",
+                    "str": "Pokémon Meteoro",
                     "strWidth": 270.0
                 }
             ]
@@ -23289,7 +23289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Drowsing Pokémon",
+                    "str": "Pokémon Duermevela",
                     "strWidth": 270.0
                 }
             ]
@@ -23319,7 +23319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blast Turtle Pokémon",
+                    "str": "Pokémon Tortugabomba",
                     "strWidth": 270.0
                 }
             ]
@@ -23349,7 +23349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Roly-Poly Pokémon",
+                    "str": "Pokémon Bolita",
                     "strWidth": 270.0
                 }
             ]
@@ -23379,7 +23379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Disguise Pokémon",
+                    "str": "Pokémon Disfraz",
                     "strWidth": 270.0
                 }
             ]
@@ -23409,7 +23409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gnash Teeth Pokémon",
+                    "str": "Pokémon Rechinante",
                     "strWidth": 270.0
                 }
             ]
@@ -23439,7 +23439,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Placid Pokémon",
+                    "str": "Pokémon Sosiego",
                     "strWidth": 270.0
                 }
             ]
@@ -23469,7 +23469,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sea Creeper Pokémon",
+                    "str": "Pokémon Alga Ancla",
                     "strWidth": 270.0
                 }
             ]
@@ -23499,7 +23499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scaly Pokémon",
+                    "str": "Pokémon Escamas",
                     "strWidth": 270.0
                 }
             ]
@@ -23529,7 +23529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scaly Pokémon",
+                    "str": "Pokémon Escamas",
                     "strWidth": 270.0
                 }
             ]
@@ -23559,7 +23559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scaly Pokémon",
+                    "str": "Pokémon Escamas",
                     "strWidth": 270.0
                 }
             ]
@@ -23589,7 +23589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Land Spirit Pokémon",
+                    "str": "Pokémon Dios nativo",
                     "strWidth": 270.0
                 }
             ]
@@ -23619,7 +23619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Land Spirit Pokémon",
+                    "str": "Pokémon Dios nativo",
                     "strWidth": 270.0
                 }
             ]
@@ -23649,7 +23649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Land Spirit Pokémon",
+                    "str": "Pokémon Dios Nativo",
                     "strWidth": 270.0
                 }
             ]
@@ -23679,7 +23679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Land Spirit Pokémon",
+                    "str": "Pokémon Dios nativo",
                     "strWidth": 270.0
                 }
             ]
@@ -23709,7 +23709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nebula Pokémon",
+                    "str": "Pokémon Nebulosa",
                     "strWidth": 270.0
                 }
             ]
@@ -23739,7 +23739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Protostar Pokémon",
+                    "str": "Pokémon Protostrella",
                     "strWidth": 270.0
                 }
             ]
@@ -23769,7 +23769,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sunne Pokémon",
+                    "str": "Pokémon Corona solar",
                     "strWidth": 270.0
                 }
             ]
@@ -23799,7 +23799,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Moone Pokémon",
+                    "str": "Pokémon Corona lunar",
                     "strWidth": 270.0
                 }
             ]
@@ -23829,7 +23829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Parasite Pokémon",
+                    "str": "Pokémon Parásito",
                     "strWidth": 270.0
                 }
             ]
@@ -23859,7 +23859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Swollen Pokémon",
+                    "str": "Pokémon Hinchado",
                     "strWidth": 270.0
                 }
             ]
@@ -23889,7 +23889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lissome Pokémon",
+                    "str": "Pokémon Elegancia",
                     "strWidth": 270.0
                 }
             ]
@@ -23919,7 +23919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Glowing Pokémon",
+                    "str": "Pokémon Luminaria",
                     "strWidth": 270.0
                 }
             ]
@@ -23949,7 +23949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Launch Pokémon",
+                    "str": "Pokémon Lanzamiento",
                     "strWidth": 270.0
                 }
             ]
@@ -23979,7 +23979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Drawn Sword Pokémon",
+                    "str": "Pokémon Desenvaine",
                     "strWidth": 270.0
                 }
             ]
@@ -24009,7 +24009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Junkivore Pokémon",
+                    "str": "Pokémon Tragaldabas",
                     "strWidth": 270.0
                 }
             ]
@@ -24039,7 +24039,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Prism Pokémon",
+                    "str": "Pokémon Prisma",
                     "strWidth": 270.0
                 }
             ]
@@ -24069,7 +24069,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Artificial Pokémon",
+                    "str": "Pokémon Artificial",
                     "strWidth": 270.0
                 }
             ]
@@ -24099,7 +24099,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gloomdweller Pokémon",
+                    "str": "Pokémon Morasombra",
                     "strWidth": 270.0
                 }
             ]
@@ -24129,7 +24129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Poison Pin Pokémon",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 270.0
                 }
             ]
@@ -24159,7 +24159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Poison Pin Pokémon",
+                    "str": "Pokémon Pin veneno",
                     "strWidth": 270.0
                 }
             ]
@@ -24189,7 +24189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rampart Pokémon",
+                    "str": "Pokémon Muro",
                     "strWidth": 270.0
                 }
             ]
@@ -24219,7 +24219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fireworks Pokémon",
+                    "str": "Pokémon Pirotecnia",
                     "strWidth": 270.0
                 }
             ]
@@ -24249,7 +24249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thunderclap Pokémon",
+                    "str": "Pokémon Fulgor",
                     "strWidth": 270.0
                 }
             ]
@@ -24279,7 +24279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hex Nut Pokémon",
+                    "str": "Pokémon Tuerca",
                     "strWidth": 270.0
                 }
             ]
@@ -24309,7 +24309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hex Nut Pokémon",
+                    "str": "Pokémon Tuerca",
                     "strWidth": 270.0
                 }
             ]
@@ -24339,7 +24339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chimp Pokémon",
+                    "str": "Pokémon Chimpancé",
                     "strWidth": 270.0
                 }
             ]
@@ -24369,7 +24369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Beat Pokémon",
+                    "str": "Pokémon Ritmo",
                     "strWidth": 270.0
                 }
             ]
@@ -24399,7 +24399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Drummer Pokémon",
+                    "str": "Pokémon Percusión",
                     "strWidth": 270.0
                 }
             ]
@@ -24429,7 +24429,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rabbit Pokémon",
+                    "str": "Pokémon Conejo",
                     "strWidth": 270.0
                 }
             ]
@@ -24459,7 +24459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rabbit Pokémon",
+                    "str": "Pokémon Conejo",
                     "strWidth": 270.0
                 }
             ]
@@ -24489,7 +24489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Striker Pokémon",
+                    "str": "Pokémon Delantero",
                     "strWidth": 270.0
                 }
             ]
@@ -24519,7 +24519,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Lizard Pokémon",
+                    "str": "Pokémon Acuartija",
                     "strWidth": 270.0
                 }
             ]
@@ -24549,7 +24549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water lizard Pokémon",
+                    "str": "Pokémon Acuartija",
                     "strWidth": 270.0
                 }
             ]
@@ -24579,7 +24579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Secret Agent Pokémon",
+                    "str": "Pokémon Agente",
                     "strWidth": 270.0
                 }
             ]
@@ -24609,7 +24609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cheeky Pokémon",
+                    "str": "Pokémon Abazón",
                     "strWidth": 270.0
                 }
             ]
@@ -24639,7 +24639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Greedy Pokémon",
+                    "str": "Pokémon Avaricia",
                     "strWidth": 270.0
                 }
             ]
@@ -24669,7 +24669,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tiny Bird Pokémon",
+                    "str": "Pokémon Pajarito",
                     "strWidth": 270.0
                 }
             ]
@@ -24699,7 +24699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Raven Pokémon",
+                    "str": "Pokémon Cuervo",
                     "strWidth": 270.0
                 }
             ]
@@ -24729,7 +24729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Raven Pokémon",
+                    "str": "Pokémon Cuervo",
                     "strWidth": 270.0
                 }
             ]
@@ -24759,7 +24759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Larva Pokémon",
+                    "str": "Pokémon Pupa",
                     "strWidth": 270.0
                 }
             ]
@@ -24789,7 +24789,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Radome Pokémon",
+                    "str": "Pokémon Radomo",
                     "strWidth": 270.0
                 }
             ]
@@ -24819,7 +24819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Seven Spot Pokémon",
+                    "str": "Pokémon Siete puntos",
                     "strWidth": 270.0
                 }
             ]
@@ -24849,7 +24849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fox Pokémon",
+                    "str": "Pokémon Zorro",
                     "strWidth": 270.0
                 }
             ]
@@ -24879,7 +24879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fox Pokémon",
+                    "str": "Pokémon Zorro",
                     "strWidth": 270.0
                 }
             ]
@@ -24909,7 +24909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flowering Pokémon",
+                    "str": "Pokémon Adornofloral",
                     "strWidth": 270.0
                 }
             ]
@@ -24939,7 +24939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cotton Bloom Pokémon",
+                    "str": "Pokémon Adornalgodón",
                     "strWidth": 270.0
                 }
             ]
@@ -24969,7 +24969,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sheep Pokémon",
+                    "str": "Pokémon Oveja",
                     "strWidth": 270.0
                 }
             ]
@@ -24999,7 +24999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sheep Pokémon",
+                    "str": "Pokémon Oveja",
                     "strWidth": 270.0
                 }
             ]
@@ -25029,7 +25029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Snapping Pokémon",
+                    "str": "Pokémon Mordedura",
                     "strWidth": 270.0
                 }
             ]
@@ -25059,7 +25059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bite Pokémon",
+                    "str": "Pokémon Mordisco",
                     "strWidth": 270.0
                 }
             ]
@@ -25089,7 +25089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Puppy Pokémon",
+                    "str": "Pokémon Perrito",
                     "strWidth": 270.0
                 }
             ]
@@ -25119,7 +25119,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dog Pokémon",
+                    "str": "Pokémon Perro",
                     "strWidth": 270.0
                 }
             ]
@@ -25149,7 +25149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coal Pokémon",
+                    "str": "Pokémon Carbón",
                     "strWidth": 270.0
                 }
             ]
@@ -25179,7 +25179,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coal Pokémon",
+                    "str": "Pokémon Carbón",
                     "strWidth": 270.0
                 }
             ]
@@ -25209,7 +25209,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coal Pokémon",
+                    "str": "Pokémon Carbón",
                     "strWidth": 270.0
                 }
             ]
@@ -25239,7 +25239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Apple Core Pokémon",
+                    "str": "Pokémon Manzanido",
                     "strWidth": 270.0
                 }
             ]
@@ -25269,7 +25269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Apple Wing Pokémon",
+                    "str": "Pokémon Manzanala",
                     "strWidth": 270.0
                 }
             ]
@@ -25299,7 +25299,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Apple Nectar Pokémon",
+                    "str": "Pokémon Manzanéctar",
                     "strWidth": 270.0
                 }
             ]
@@ -25329,7 +25329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sand Snake Pokémon",
+                    "str": "Pokémon Serpiente Arena1",
                     "strWidth": 270.0
                 }
             ]
@@ -25359,7 +25359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sand Snake Pokémon",
+                    "str": "Pokémon Serpiente Arena1",
                     "strWidth": 270.0
                 }
             ]
@@ -25389,7 +25389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gulp Pokémon",
+                    "str": "Pokémon Tragón",
                     "strWidth": 270.0
                 }
             ]
@@ -25419,7 +25419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rush Pokémon",
+                    "str": "Pokémon Arremetida",
                     "strWidth": 270.0
                 }
             ]
@@ -25449,7 +25449,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Skewer Pokémon",
+                    "str": "Pokémon Ensarta",
                     "strWidth": 270.0
                 }
             ]
@@ -25479,7 +25479,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Baby Pokémon",
+                    "str": "Pokémon Retoño",
                     "strWidth": 270.0
                 }
             ]
@@ -25509,7 +25509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Punk Pokémon",
+                    "str": "Pokémon Punki",
                     "strWidth": 270.0
                 }
             ]
@@ -25539,7 +25539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Radiator Pokémon",
+                    "str": "Pokémon Radiador",
                     "strWidth": 270.0
                 }
             ]
@@ -25569,7 +25569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Radiator Pokémon",
+                    "str": "Pokémon Radiador",
                     "strWidth": 270.0
                 }
             ]
@@ -25599,7 +25599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tantrum Pokémon",
+                    "str": "Pokémon Malcriado",
                     "strWidth": 270.0
                 }
             ]
@@ -25629,7 +25629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tantrum Pokémon",
+                    "str": "Pokémon Jiu-Jitsu",
                     "strWidth": 270.0
                 }
             ]
@@ -25659,7 +25659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Black Tea Pokémon",
+                    "str": "Pokémon Té",
                     "strWidth": 270.0
                 }
             ]
@@ -25689,7 +25689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Black Tea Pokémon",
+                    "str": "Pokémon Té",
                     "strWidth": 270.0
                 }
             ]
@@ -25719,7 +25719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Calm Pokémon",
+                    "str": "Pokémon Calma",
                     "strWidth": 270.0
                 }
             ]
@@ -25749,7 +25749,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Serene Pokémon",
+                    "str": "Pokémon Serenidad",
                     "strWidth": 270.0
                 }
             ]
@@ -25779,7 +25779,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Silent Pokémon",
+                    "str": "Pokémon Silencio",
                     "strWidth": 270.0
                 }
             ]
@@ -25809,7 +25809,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wily Pokémon",
+                    "str": "Pokémon Astuto",
                     "strWidth": 270.0
                 }
             ]
@@ -25839,7 +25839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Devious Pokémon",
+                    "str": "Pokémon Malicioso",
                     "strWidth": 270.0
                 }
             ]
@@ -25869,7 +25869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bulk Up Pokémon",
+                    "str": "Pokémon Voluminoso",
                     "strWidth": 270.0
                 }
             ]
@@ -25989,7 +25989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Pato Salvaje",
+                    "str": "Pokémon Pato salvaje",
                     "strWidth": 287.0
                 }
             ]
@@ -26049,7 +26049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grudge Pokémon",
+                    "str": "Pokémon Resquemor",
                     "strWidth": 270.0
                 }
             ]
@@ -26079,7 +26079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cream Pokémon",
+                    "str": "Pokémon Nata",
                     "strWidth": 270.0
                 }
             ]
@@ -26109,7 +26109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cream Pokémon",
+                    "str": "Pokémon Nata",
                     "strWidth": 270.0
                 }
             ]
@@ -26139,7 +26139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Formation Pokémon",
+                    "str": "Pokémon Formación",
                     "strWidth": 270.0
                 }
             ]
@@ -26169,7 +26169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sea Urchin Pokémon",
+                    "str": "Pokémon Erizo de Mar",
                     "strWidth": 270.0
                 }
             ]
@@ -26199,7 +26199,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Worm Pokémon",
+                    "str": "Pokémon Gusano",
                     "strWidth": 270.0
                 }
             ]
@@ -26229,7 +26229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Frost Moth Pokémon",
+                    "str": "Pokémon Polillahielo",
                     "strWidth": 270.0
                 }
             ]
@@ -26259,7 +26259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Big Rock Pokémon",
+                    "str": "Pokémon Megalito",
                     "strWidth": 270.0
                 }
             ]
@@ -26289,7 +26289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Penguin Pokémon",
+                    "str": "Pokémon Pingüino",
                     "strWidth": 270.0
                 }
             ]
@@ -26319,7 +26319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emotion Pokémon",
+                    "str": "Pokémon Sensorio",
                     "strWidth": 270.0
                 }
             ]
@@ -26349,7 +26349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Two-Sided Pokémon",
+                    "str": "Pokémon Dos Caras",
                     "strWidth": 270.0
                 }
             ]
@@ -26379,7 +26379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Copperderm Pokémon",
+                    "str": "Pokémon Broncefante",
                     "strWidth": 270.0
                 }
             ]
@@ -26409,7 +26409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Copperderm Pokémon",
+                    "str": "Pokémon Broncefante",
                     "strWidth": 270.0
                 }
             ]
@@ -26439,7 +26439,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fossil Pokémon",
+                    "str": "Pokémon Fósil",
                     "strWidth": 270.0
                 }
             ]
@@ -26469,7 +26469,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fossil Pokémon",
+                    "str": "Pokémon Fósil",
                     "strWidth": 270.0
                 }
             ]
@@ -26499,7 +26499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fossil Pokémon",
+                    "str": "Pokémon Fósil",
                     "strWidth": 270.0
                 }
             ]
@@ -26529,7 +26529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fossil Pokémon",
+                    "str": "Pokémon Fósil",
                     "strWidth": 270.0
                 }
             ]
@@ -26559,7 +26559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Alloy Pokémon",
+                    "str": "Pokémon Aleación",
                     "strWidth": 270.0
                 }
             ]
@@ -26589,7 +26589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lingering Pokémon",
+                    "str": "Pokémon Resentido",
                     "strWidth": 270.0
                 }
             ]
@@ -26619,7 +26619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Caretaker Pokémon",
+                    "str": "Pokémon Cuidador",
                     "strWidth": 270.0
                 }
             ]
@@ -26649,7 +26649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stealth Pokémon",
+                    "str": "Pokémon Furtivo",
                     "strWidth": 270.0
                 }
             ]
@@ -26679,7 +26679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Warrior Pokémon",
+                    "str": "Pokémon Guerrero",
                     "strWidth": 270.0
                 }
             ]
@@ -26709,7 +26709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Warrior Pokémon",
+                    "str": "Pokémon Guerrero",
                     "strWidth": 270.0
                 }
             ]
@@ -26739,7 +26739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gigantic Pokémon",
+                    "str": "Pokémon Gigantesco",
                     "strWidth": 270.0
                 }
             ]
@@ -26769,7 +26769,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wushu Pokémon",
+                    "str": "Pokémon Kung-Fu",
                     "strWidth": 270.0
                 }
             ]
@@ -26799,7 +26799,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wushu Pokémon",
+                    "str": "Pokémon Kung-fu",
                     "strWidth": 270.0
                 }
             ]
@@ -26829,7 +26829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rogue Monkey Pokémon",
+                    "str": "Pokémon Simiestro",
                     "strWidth": 270.0
                 }
             ]
@@ -26859,7 +26859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Electron Pokémon",
+                    "str": "Pokémon Electrón",
                     "strWidth": 270.0
                 }
             ]
@@ -26889,7 +26889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dragon Orb Pokémon",
+                    "str": "Pokémon Dragosfera",
                     "strWidth": 270.0
                 }
             ]
@@ -26919,7 +26919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wild Horse Pokémon",
+                    "str": "Pokémon Corcel Feroz",
                     "strWidth": 270.0
                 }
             ]
@@ -26949,7 +26949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Swift Horse Pokémon",
+                    "str": "Pokémon Corcel Veloz",
                     "strWidth": 270.0
                 }
             ]
@@ -26979,7 +26979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "King Pokémon",
+                    "str": "Pokémon ReyC\nEmperadorJG JE",
                     "strWidth": 270.0
                 }
             ]
@@ -27009,7 +27009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon Gran Cuerno",
+                    "str": "Pokémon Gran cuerno",
                     "strWidth": 295.0625
                 }
             ]
@@ -27219,7 +27219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gato Planta",
                     "strWidth": 270.0
                 }
             ]
@@ -27249,7 +27249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gato Planta",
                     "strWidth": 270.0
                 }
             ]
@@ -27279,7 +27279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mago",
                     "strWidth": 270.0
                 }
             ]
@@ -27309,7 +27309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Fuegodrilo",
                     "strWidth": 270.0
                 }
             ]
@@ -27339,7 +27339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Fuegodrilo",
                     "strWidth": 270.0
                 }
             ]
@@ -27369,7 +27369,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Cantante",
                     "strWidth": 270.0
                 }
             ]
@@ -27399,7 +27399,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Patito",
                     "strWidth": 270.0
                 }
             ]
@@ -27429,7 +27429,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Disciplinado",
                     "strWidth": 270.0
                 }
             ]
@@ -27459,7 +27459,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Bailarín",
                     "strWidth": 270.0
                 }
             ]
@@ -27489,7 +27489,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gorrino",
                     "strWidth": 270.0
                 }
             ]
@@ -27519,7 +27519,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blade Pokémon",
+                    "str": "Pokémon Gorrino",
                     "strWidth": 270.0
                 }
             ]
@@ -27549,7 +27549,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Ovillo",
                     "strWidth": 270.0
                 }
             ]
@@ -27579,7 +27579,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Trampa",
                     "strWidth": 270.0
                 }
             ]
@@ -27609,7 +27609,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Saltamontes",
                     "strWidth": 270.0
                 }
             ]
@@ -27639,7 +27639,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Saltamontes",
                     "strWidth": 270.0
                 }
             ]
@@ -27669,7 +27669,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Ratón",
                     "strWidth": 270.0
                 }
             ]
@@ -27699,7 +27699,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Ratón",
                     "strWidth": 270.0
                 }
             ]
@@ -27729,7 +27729,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Palmada",
                     "strWidth": 270.0
                 }
             ]
@@ -27759,7 +27759,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Pareja",
                     "strWidth": 270.0
                 }
             ]
@@ -27789,7 +27789,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Familia",
                     "strWidth": 270.0
                 }
             ]
@@ -27819,7 +27819,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Perrito",
                     "strWidth": 270.0
                 }
             ]
@@ -27849,7 +27849,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Perro",
                     "strWidth": 270.0
                 }
             ]
@@ -27879,7 +27879,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Aceituna",
                     "strWidth": 270.0
                 }
             ]
@@ -27909,7 +27909,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Aceituna",
                     "strWidth": 270.0
                 }
             ]
@@ -27939,7 +27939,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Aceituna",
                     "strWidth": 270.0
                 }
             ]
@@ -27969,7 +27969,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Loro",
                     "strWidth": 270.0
                 }
             ]
@@ -27999,7 +27999,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Halita",
                     "strWidth": 270.0
                 }
             ]
@@ -28029,7 +28029,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Halita",
                     "strWidth": 270.0
                 }
             ]
@@ -28059,7 +28059,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Halita",
                     "strWidth": 270.0
                 }
             ]
@@ -28089,7 +28089,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Piroescudero",
                     "strWidth": 270.0
                 }
             ]
@@ -28119,7 +28119,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Piroguerrero",
                     "strWidth": 270.0
                 }
             ]
@@ -28149,7 +28149,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Piroespada",
                     "strWidth": 270.0
                 }
             ]
@@ -28179,7 +28179,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Electrocuajo",
                     "strWidth": 270.0
                 }
             ]
@@ -28209,7 +28209,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Electrorrana",
                     "strWidth": 270.0
                 }
             ]
@@ -28239,7 +28239,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Paíño",
                     "strWidth": 270.0
                 }
             ]
@@ -28269,7 +28269,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Fregata",
                     "strWidth": 270.0
                 }
             ]
@@ -28299,7 +28299,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Bisoño",
                     "strWidth": 270.0
                 }
             ]
@@ -28329,7 +28329,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Jefazo",
                     "strWidth": 270.0
                 }
             ]
@@ -28359,7 +28359,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Ratón Veneno",
                     "strWidth": 270.0
                 }
             ]
@@ -28389,7 +28389,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mono Veneno",
                     "strWidth": 270.0
                 }
             ]
@@ -28419,7 +28419,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Estepicursor",
                     "strWidth": 270.0
                 }
             ]
@@ -28449,7 +28449,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Estepicursor",
                     "strWidth": 270.0
                 }
             ]
@@ -28479,7 +28479,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Auricularia",
                     "strWidth": 270.0
                 }
             ]
@@ -28509,7 +28509,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Auricularia",
                     "strWidth": 270.0
                 }
             ]
@@ -28539,7 +28539,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Emboscada",
                     "strWidth": 270.0
                 }
             ]
@@ -28569,7 +28569,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Habanero",
                     "strWidth": 270.0
                 }
             ]
@@ -28599,7 +28599,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Habanero",
                     "strWidth": 270.0
                 }
             ]
@@ -28629,7 +28629,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Pelotero",
                     "strWidth": 270.0
                 }
             ]
@@ -28659,7 +28659,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Pelotero",
                     "strWidth": 270.0
                 }
             ]
@@ -28689,7 +28689,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Volantes",
                     "strWidth": 270.0
                 }
             ]
@@ -28719,7 +28719,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Avestruz",
                     "strWidth": 270.0
                 }
             ]
@@ -28839,7 +28839,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Cóngrido",
                     "strWidth": 270.0
                 }
             ]
@@ -28869,7 +28869,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Cóngrido",
                     "strWidth": 270.0
                 }
             ]
@@ -28899,7 +28899,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Arrojador",
                     "strWidth": 270.0
                 }
             ]
@@ -28929,7 +28929,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Delfín",
                     "strWidth": 270.0
                 }
             ]
@@ -28959,7 +28959,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Delfín",
                     "strWidth": 270.0
                 }
             ]
@@ -28989,7 +28989,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Monocilindro",
                     "strWidth": 270.0
                 }
             ]
@@ -29019,7 +29019,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Policilindro",
                     "strWidth": 270.0
                 }
             ]
@@ -29049,7 +29049,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Montura",
                     "strWidth": 270.0
                 }
             ]
@@ -29079,7 +29079,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Lombriz",
                     "strWidth": 270.0
                 }
             ]
@@ -29109,7 +29109,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mineral",
                     "strWidth": 270.0
                 }
             ]
@@ -29139,7 +29139,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mineral",
                     "strWidth": 270.0
                 }
             ]
@@ -29169,7 +29169,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Can Fantasma",
                     "strWidth": 270.0
                 }
             ]
@@ -29199,7 +29199,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Can Fantasma",
                     "strWidth": 270.0
                 }
             ]
@@ -29229,7 +29229,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Sincronizado",
                     "strWidth": 270.0
                 }
             ]
@@ -29259,7 +29259,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Geoballena",
                     "strWidth": 270.0
                 }
             ]
@@ -29289,7 +29289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Geoballena",
                     "strWidth": 270.0
                 }
             ]
@@ -29319,7 +29319,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Sueltalastre",
                     "strWidth": 270.0
                 }
             ]
@@ -29349,7 +29349,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gran Siluro",
                     "strWidth": 270.0
                 }
             ]
@@ -29379,7 +29379,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mimetismo",
                     "strWidth": 270.0
                 }
             ]
@@ -29409,7 +29409,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Mono Furia",
                     "strWidth": 270.0
                 }
             ]
@@ -29439,7 +29439,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Pez Púas",
                     "strWidth": 270.0
                 }
             ]
@@ -29469,7 +29469,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gran Cuello",
                     "strWidth": 270.0
                 }
             ]
@@ -29499,7 +29499,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Serpiente tierra",
                     "strWidth": 270.0
                 }
             ]
@@ -29529,7 +29529,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Gran Espada",
                     "strWidth": 270.0
                 }
             ]
@@ -29559,7 +29559,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29589,7 +29589,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29619,7 +29619,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29649,7 +29649,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29679,7 +29679,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29709,7 +29709,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29739,7 +29739,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29769,7 +29769,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29799,7 +29799,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29829,7 +29829,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29859,7 +29859,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29889,7 +29889,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -29919,7 +29919,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Aleta Hielo",
                     "strWidth": 270.0
                 }
             ]
@@ -29949,7 +29949,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Aleta Hielo",
                     "strWidth": 270.0
                 }
             ]
@@ -29979,7 +29979,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Emperor Pokémon",
+                    "str": "Pokémon Dragón Hielo",
                     "strWidth": 270.0
                 }
             ]
@@ -30009,7 +30009,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon CofreFC\nCazatesorosFA",
                     "strWidth": 270.0
                 }
             ]
@@ -30039,7 +30039,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Tesoro",
                     "strWidth": 270.0
                 }
             ]
@@ -30069,7 +30069,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Debacle",
                     "strWidth": 270.0
                 }
             ]
@@ -30099,7 +30099,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Debacle",
                     "strWidth": 270.0
                 }
             ]
@@ -30129,7 +30129,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Debacle",
                     "strWidth": 270.0
                 }
             ]
@@ -30159,7 +30159,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Debacle",
                     "strWidth": 270.0
                 }
             ]
@@ -30189,7 +30189,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -30219,7 +30219,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -30249,7 +30249,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -30279,7 +30279,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -30309,7 +30309,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
@@ -30339,7 +30339,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gratitude Pokémon",
+                    "str": "Pokémon Paradoja",
                     "strWidth": 270.0
                 }
             ]
