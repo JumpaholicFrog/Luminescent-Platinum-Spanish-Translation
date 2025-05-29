@@ -31965,7 +31965,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Estilo apasionado: Junta las alas y lanza voraces llamas al rival. Su ataque se asemeja a una elaborada coreografía de fuego. Estilo animado: Forma que toma Oricorio al libar néctar",
+                    "str": "Junta las alas y lanza voraces",
                     "strWidth": 590.203125
                 },
                 {
@@ -31973,7 +31973,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "amarillo. Electrifica el corazón de sus adversarios con su alegre y cálida danza. Estilo plácido: Baila de forma pausada acumulando poder psíquico que después libera contra su rival tras mirarlo",
+                    "str": "llamas al rival. Su ataque se asemeja",
                     "strWidth": 586.984375
                 },
                 {
@@ -31981,7 +31981,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "fijamente. Estilo refinado: Forma que toma Oricorio al libar néctar violeta. Con su refinada y elegante danza, puede enviar al otro mundo a sus enemigos en cuerpo y alma.",
+                    "str": "a una elaborada coreografía de fuego.",
                     "strWidth": 310.34375
                 }
             ]
@@ -39453,7 +39453,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Enamorus no aparece",
+                    "str": "Su llegada de allende el mar significa el fin del duro invierno. De acuerdo",
                     "strWidth": 619.75
                 },
                 {
@@ -39461,7 +39461,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "en Pokémon Espada.",
+                    "str": "con el folclore, su amor siempre trae consigo un soplo de vida nueva a Hisui.",
                     "strWidth": 600.265625
                 }
             ]
@@ -63281,7 +63281,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Enamorus no aparece",
+                    "str": "Tras perder su apariencia femenina, surge de entre las nubes y, sin piedad alguna,",
                     "strWidth": 619.75
                 },
                 {
@@ -63289,7 +63289,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "en Pokémon Espada.",
+                    "str": "desata toda su furia para castigar a quienquiera que menosprecie el don de la vida.",
                     "strWidth": 600.265625
                 }
             ]
