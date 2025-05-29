@@ -17073,7 +17073,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Average Size",
+          "str": "Tamaño Normal",
           "strWidth": 250.0
         }
       ]
@@ -17097,7 +17097,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Average Size",
+          "str": "Tamaño Normal",
           "strWidth": 250.0
         }
       ]
@@ -17217,7 +17217,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Neutral Mode",
+          "str": "Modo Relajado",
           "strWidth": 250.0
         }
       ]
@@ -17265,7 +17265,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zygarde 50% Forme",
+          "str": "Zygarde al 50%",
           "strWidth": 250.0
         }
       ]
@@ -17313,7 +17313,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hoopa Confined",
+          "str": "Hoopa Contenido",
           "strWidth": 250.0
         }
       ]
@@ -17817,7 +17817,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Baile Style",
+          "str": "Estilo Apasionado",
           "strWidth": 250.0
         }
       ]
@@ -17913,7 +17913,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Midday Form",
+          "str": "Forma Diurna",
           "strWidth": 250.0
         }
       ]
@@ -17937,7 +17937,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Solo Form",
+          "str": "Forma Individual",
           "strWidth": 250.0
         }
       ]
@@ -18705,7 +18705,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Disguised Form",
+          "str": "Forma Encubierta",
           "strWidth": 250.0
         }
       ]
@@ -20409,7 +20409,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Amped Form",
+          "str": "Forma Aguda",
           "strWidth": 250.0
         }
       ]
@@ -20529,7 +20529,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Phony Form",
+          "str": "Forma Falsificada",
           "strWidth": 250.0
         }
       ]
@@ -20553,7 +20553,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Phony Form",
+          "str": "Forma Falsificada",
           "strWidth": 250.0
         }
       ]
@@ -20889,7 +20889,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -21033,7 +21033,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ice Face",
+          "str": "Cara de Hielo",
           "strWidth": 250.0
         }
       ]
@@ -21081,7 +21081,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Full Belly Mode",
+          "str": "Forma Saciada",
           "strWidth": 250.0
         }
       ]
@@ -21345,7 +21345,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hero of Many Battles",
+          "str": "Guerrero Avezado",
           "strWidth": 250.0
         }
       ]
@@ -21369,7 +21369,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hero of Many Battles",
+          "str": "Guerrero Avezado",
           "strWidth": 250.0
         }
       ]
@@ -21441,7 +21441,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Single Strike Style",
+          "str": "Estilo Brusco",
           "strWidth": 250.0
         }
       ]
@@ -22233,7 +22233,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Family of Four",
+          "str": "Familia de Cuatro",
           "strWidth": 153.453125
         }
       ]
@@ -22377,7 +22377,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Green Plumage",
+          "str": "Plumaje Verde",
           "strWidth": -1.0
         }
       ]
@@ -23169,7 +23169,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zero Form",
+          "str": "Forma Ingenua",
           "strWidth": -1.0
         }
       ]
@@ -23505,7 +23505,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Curly Form",
+          "str": "Forma Curvada",
           "strWidth": -1.0
         }
       ]
@@ -23601,7 +23601,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Two-Segment Form",
+          "str": "Forma Binodular",
           "strWidth": -1.0
         }
       ]
@@ -24009,7 +24009,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Chest Form",
+          "str": "Forma Cofre",
           "strWidth": 153.453125
         }
       ]
@@ -24321,7 +24321,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Venusaur",
+          "str": "Venusaur Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -24417,7 +24417,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Charizard",
+          "str": "Charizard Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -24489,7 +24489,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Blastoise",
+          "str": "Blastoise Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -24537,7 +24537,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Butterfree",
+          "str": "Butterfree Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -25041,7 +25041,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Pikachu",
+          "str": "Pikachu Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -25305,7 +25305,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Meowth",
+          "str": "Meowth Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -25425,7 +25425,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Machamp",
+          "str": "Machamp Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -25761,7 +25761,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Gengar",
+          "str": "Gengar Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -25833,7 +25833,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Kingler",
+          "str": "Kingler Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -26169,7 +26169,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Lapras",
+          "str": "Lapras Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -26217,7 +26217,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Eevee",
+          "str": "Eevee Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -26289,7 +26289,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Snorlax",
+          "str": "Snorlax Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -29217,7 +29217,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zen Mode",
+          "str": "Darmanitan Modo Daruma",
           "strWidth": 250.0
         }
       ]
@@ -29241,7 +29241,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Modo Normal de Galar",
+          "str": "Darmanitan Modo Normal de Galar",
           "strWidth": 250.0
         }
       ]
@@ -29265,7 +29265,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Modo Daruma de Galar",
+          "str": "Darmanitan Modo Daruma de Galar",
           "strWidth": 250.0
         }
       ]
@@ -29313,7 +29313,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Garbodor",
+          "str": "Garbodor Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -30969,7 +30969,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Small Size",
+          "str": "Tamaño Pequeño",
           "strWidth": 250.0
         }
       ]
@@ -30993,7 +30993,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Large Size",
+          "str": "Tamaño Grande",
           "strWidth": 250.0
         }
       ]
@@ -31017,7 +31017,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Super Size",
+          "str": "Tamaño Extragrande",
           "strWidth": 250.0
         }
       ]
@@ -31041,7 +31041,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Small Size",
+          "str": "Tamaño Pequeño",
           "strWidth": 250.0
         }
       ]
@@ -31065,7 +31065,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Large Size",
+          "str": "Tamaño Grande",
           "strWidth": 250.0
         }
       ]
@@ -31089,7 +31089,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Super Size",
+          "str": "Tamaño Extragrande",
           "strWidth": 250.0
         }
       ]
@@ -31137,7 +31137,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Active Mode",
+          "str": "Modo Activo",
           "strWidth": 250.0
         }
       ]
@@ -31161,7 +31161,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zygarde 10% Forme",
+          "str": "Zygarde al 10%",
           "strWidth": 250.0
         }
       ]
@@ -31185,7 +31185,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zygarde Complete Forme",
+          "str": "Zygarde Completo",
           "strWidth": 250.0
         }
       ]
@@ -31209,7 +31209,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zygarde Core Forme",
+          "str": "Núcleo de Zygarde",
           "strWidth": 250.0
         }
       ]
@@ -31233,7 +31233,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Zygarde Cell Forme",
+          "str": "Célula de Zygarde",
           "strWidth": 250.0
         }
       ]
@@ -31281,7 +31281,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hoopa Unbound",
+          "str": "Hoopa Desatado",
           "strWidth": 250.0
         }
       ]
@@ -31377,7 +31377,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Pom-Pom Style",
+          "str": "Estilo Animado",
           "strWidth": 250.0
         }
       ]
@@ -31401,7 +31401,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Pa'u Style",
+          "str": "Estilo Plácido",
           "strWidth": 250.0
         }
       ]
@@ -31425,7 +31425,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Sensu Style",
+          "str": "Estilo Refinado",
           "strWidth": 250.0
         }
       ]
@@ -31497,7 +31497,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Midnight Form",
+          "str": "Forma Nocturna",
           "strWidth": 250.0
         }
       ]
@@ -31521,7 +31521,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Dusk Form",
+          "str": "Forma Crepuscular",
           "strWidth": 250.0
         }
       ]
@@ -31545,7 +31545,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "School Form",
+          "str": "Forma Banco",
           "strWidth": 250.0
         }
       ]
@@ -32049,7 +32049,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Meteor Form",
+          "str": "Meteorito",
           "strWidth": 250.0
         }
       ]
@@ -32193,7 +32193,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Red Core",
+          "str": "Núcleo Rojo",
           "strWidth": 250.0
         }
       ]
@@ -32217,7 +32217,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Orange Core",
+          "str": "Núcleo Naranja",
           "strWidth": 250.0
         }
       ]
@@ -32241,7 +32241,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Yellow Core",
+          "str": "Núcleo Amarillo",
           "strWidth": 250.0
         }
       ]
@@ -32265,7 +32265,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Green Core",
+          "str": "Núcleo Verde",
           "strWidth": 250.0
         }
       ]
@@ -32289,7 +32289,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Blue Core",
+          "str": "Núcleo Azul",
           "strWidth": 250.0
         }
       ]
@@ -32313,7 +32313,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Indigo Core",
+          "str": "Núcleo Añil",
           "strWidth": 250.0
         }
       ]
@@ -32337,7 +32337,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Violet Core",
+          "str": "Núcleo Violeta",
           "strWidth": 250.0
         }
       ]
@@ -32385,7 +32385,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Busted Form",
+          "str": "Forma Descubierta",
           "strWidth": 250.0
         }
       ]
@@ -32481,7 +32481,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Dusk Mane Necrozma",
+          "str": "Melena Crepuscular",
           "strWidth": 250.0
         }
       ]
@@ -32505,7 +32505,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Dawn Wings Necrozma",
+          "str": "Alas de Alba",
           "strWidth": 250.0
         }
       ]
@@ -32529,7 +32529,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ultra Necrozma",
+          "str": "Ultra-Necrozma",
           "strWidth": 250.0
         }
       ]
@@ -32553,7 +32553,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Original Color Magearna",
+          "str": "Magearna Color Vetusto",
           "strWidth": 250.0
         }
       ]
@@ -32577,7 +32577,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Melmetal",
+          "str": "Melmetal Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32601,7 +32601,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Rillaboom",
+          "str": "Rillaboom Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32625,7 +32625,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Cinderace",
+          "str": "Cinderace Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32649,7 +32649,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Inteleon",
+          "str": "Inteleon Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32673,7 +32673,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Corviknight",
+          "str": "Corviknight Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32697,7 +32697,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Orbeetle",
+          "str": "Orbeetle Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32721,7 +32721,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Drednaw",
+          "str": "Drednaw Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32745,7 +32745,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Coalossal",
+          "str": "Coalossal Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32769,7 +32769,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Flapple",
+          "str": "Flapple Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32793,7 +32793,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Appletun",
+          "str": "Appletun Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32817,7 +32817,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Sandaconda",
+          "str": "Sandaconda Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32841,7 +32841,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gulping Form",
+          "str": "Forma Tragatodo",
           "strWidth": 250.0
         }
       ]
@@ -32865,7 +32865,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gorging Form",
+          "str": "Forma Engulletodo",
           "strWidth": 250.0
         }
       ]
@@ -32889,7 +32889,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Low Key Form",
+          "str": "Forma Grave",
           "strWidth": 250.0
         }
       ]
@@ -32913,7 +32913,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Toxtricity",
+          "str": "Toxtricity Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32937,7 +32937,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Toxtricity",
+          "str": "Toxtricity Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32961,7 +32961,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Centiskorch",
+          "str": "Centiskorch Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -32985,7 +32985,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Antique Form",
+          "str": "Forma Genuina",
           "strWidth": 250.0
         }
       ]
@@ -33009,7 +33009,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Antique Form",
+          "str": "Forma Genuina",
           "strWidth": 250.0
         }
       ]
@@ -33033,7 +33033,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Hatterene",
+          "str": "Hatterene Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -33057,7 +33057,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Grimmsnarl",
+          "str": "Grimmsnarl Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -33081,7 +33081,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33105,7 +33105,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33129,7 +33129,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33153,7 +33153,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33177,7 +33177,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33201,7 +33201,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Vanilla Cream",
+          "str": "Crema de Vainilla",
           "strWidth": 250.0
         }
       ]
@@ -33225,7 +33225,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33249,7 +33249,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33273,7 +33273,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33297,7 +33297,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33321,7 +33321,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33345,7 +33345,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33369,7 +33369,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Cream",
+          "str": "Crema Rosa",
           "strWidth": 250.0
         }
       ]
@@ -33393,7 +33393,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33417,7 +33417,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33441,7 +33441,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33465,7 +33465,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33489,7 +33489,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33513,7 +33513,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33537,7 +33537,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matcha Cream",
+          "str": "Crema de Té",
           "strWidth": 250.0
         }
       ]
@@ -33561,7 +33561,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33585,7 +33585,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33609,7 +33609,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33633,7 +33633,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33657,7 +33657,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33681,7 +33681,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33705,7 +33705,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Mint Cream",
+          "str": "Crema de Menta",
           "strWidth": 250.0
         }
       ]
@@ -33729,7 +33729,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33753,7 +33753,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33777,7 +33777,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33801,7 +33801,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33825,7 +33825,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33849,7 +33849,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33873,7 +33873,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lemon Cream",
+          "str": "Crema de Limón",
           "strWidth": 250.0
         }
       ]
@@ -33897,7 +33897,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -33921,7 +33921,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -33945,7 +33945,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -33969,7 +33969,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -33993,7 +33993,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -34017,7 +34017,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -34041,7 +34041,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Salted Cream",
+          "str": "Crema Salada",
           "strWidth": 250.0
         }
       ]
@@ -34065,7 +34065,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34089,7 +34089,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34113,7 +34113,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34137,7 +34137,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34161,7 +34161,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34185,7 +34185,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34209,7 +34209,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ruby Swirl",
+          "str": "Mezcla Rosa",
           "strWidth": 250.0
         }
       ]
@@ -34233,7 +34233,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34257,7 +34257,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34281,7 +34281,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34305,7 +34305,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34329,7 +34329,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34353,7 +34353,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34377,7 +34377,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Caramel Swirl",
+          "str": "Mezcla Caramelo",
           "strWidth": 250.0
         }
       ]
@@ -34401,7 +34401,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34425,7 +34425,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34449,7 +34449,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34473,7 +34473,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34497,7 +34497,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34521,7 +34521,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34545,7 +34545,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rainbow Swirl",
+          "str": "Tres Sabores",
           "strWidth": 250.0
         }
       ]
@@ -34569,7 +34569,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Alcremie",
+          "str": "Alcremie Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -34593,7 +34593,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Noice Face",
+          "str": "Cara Deshielo",
           "strWidth": 250.0
         }
       ]
@@ -34641,7 +34641,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hangry Mode",
+          "str": "Forma Voraz",
           "strWidth": 250.0
         }
       ]
@@ -34665,7 +34665,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Copperajah",
+          "str": "Copperajah Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -34689,7 +34689,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Duraludon",
+          "str": "Duraludon Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -34713,7 +34713,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Crowned Sword",
+          "str": "Espada Suprema",
           "strWidth": 250.0
         }
       ]
@@ -34737,7 +34737,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Crowned Shield",
+          "str": "Escudo Supremo",
           "strWidth": 250.0
         }
       ]
@@ -34761,7 +34761,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Eternamax Eternatus",
+          "str": "Eternatus Dinamax Infinito",
           "strWidth": 250.0
         }
       ]
@@ -34785,7 +34785,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Rapid Strike Style",
+          "str": "Estilo Fluido",
           "strWidth": 250.0
         }
       ]
@@ -34809,7 +34809,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Urshifu",
+          "str": "Urshifu Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -34833,7 +34833,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Gigantamax Urshifu",
+          "str": "Urshifu Gigamax",
           "strWidth": 250.0
         }
       ]
@@ -34857,7 +34857,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Dada Zarude",
+          "str": "Zarude Papá",
           "strWidth": 250.0
         }
       ]
@@ -34881,7 +34881,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ice Rider Calyrex",
+          "str": "Calyrex Jinete Glacial",
           "strWidth": 250.0
         }
       ]
@@ -34905,7 +34905,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Shadow Rider Calyrex",
+          "str": "Calyrex Jinete Espectral",
           "strWidth": 250.0
         }
       ]
@@ -35001,7 +35001,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Family of Three",
+          "str": "Familia de Tres",
           "strWidth": 153.453125
         }
       ]
@@ -35025,7 +35025,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Blue Plumage",
+          "str": "Plumaje Azul",
           "strWidth": -1.0
         }
       ]
@@ -35049,7 +35049,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Yellow Plumage",
+          "str": "Plumaje Amarillo",
           "strWidth": -1.0
         }
       ]
@@ -35073,7 +35073,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "White Plumage",
+          "str": "Plumaje Blanco",
           "strWidth": -1.0
         }
       ]
@@ -35097,7 +35097,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Hero Form",
+          "str": "Forma Heroica",
           "strWidth": -1.0
         }
       ]
@@ -35121,7 +35121,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Droopy Form",
+          "str": "Forma Lánguida",
           "strWidth": -1.0
         }
       ]
@@ -35145,7 +35145,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Stretchy Form",
+          "str": "Forma Recta",
           "strWidth": -1.0
         }
       ]
@@ -35169,7 +35169,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Three-Segment Form",
+          "str": "Forma Trinodular",
           "strWidth": -1.0
         }
       ]
@@ -35193,7 +35193,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Roaming Form",
+          "str": "Forma Andante",
           "strWidth": 153.453125
         }
       ]
