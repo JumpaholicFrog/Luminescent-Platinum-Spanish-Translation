@@ -16257,7 +16257,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Natural Form",
+          "str": "Forma Salvaje",
           "strWidth": 250.0
         }
       ]
@@ -16377,7 +16377,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Shield Forme",
+          "str": "Forma Escudo",
           "strWidth": 250.0
         }
       ]
@@ -30657,7 +30657,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Heart Trim",
+          "str": "Corte Corazón",
           "strWidth": 250.0
         }
       ]
@@ -30681,7 +30681,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Star Trim",
+          "str": "Corte Estrella",
           "strWidth": 250.0
         }
       ]
@@ -30705,7 +30705,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Diamond Trim",
+          "str": "Corte Rombo",
           "strWidth": 250.0
         }
       ]
@@ -30729,7 +30729,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Debutante Trim",
+          "str": "Corte Señorita",
           "strWidth": 250.0
         }
       ]
@@ -30753,7 +30753,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Matron Trim",
+          "str": "Corte Dama",
           "strWidth": 250.0
         }
       ]
@@ -30777,7 +30777,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Dandy Trim",
+          "str": "Corte Caballero",
           "strWidth": 250.0
         }
       ]
@@ -30801,7 +30801,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "La Reine Trim",
+          "str": "Corte Aristocrático",
           "strWidth": 250.0
         }
       ]
@@ -30825,7 +30825,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Kabuki Trim",
+          "str": "Corte Kabuki",
           "strWidth": 250.0
         }
       ]
@@ -30849,7 +30849,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Pharaoh Trim",
+          "str": "Corte Faraónico",
           "strWidth": 250.0
         }
       ]
@@ -30897,7 +30897,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Blade Forme",
+          "str": "Forma Filo",
           "strWidth": 250.0
         }
       ]
