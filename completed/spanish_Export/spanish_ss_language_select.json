@@ -38,10 +38,18 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Esta traducción ha sido hecha por la comunidad.",
+          "strWidth": 7.265625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Puedes reportar problemas por Discord.",
           "strWidth": 7.265625
         },
         {
@@ -49,7 +57,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Más información en NexusMods.",
+          "str": "Más información en Nexus Mods.",
           "strWidth": 532.359375
         }
       ]

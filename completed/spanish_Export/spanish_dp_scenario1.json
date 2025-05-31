@@ -15574,7 +15574,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ese Pokémon junto a la ventana es un Evee",
+          "str": "Ese Pokémon junto a la ventana es un Eevee",
           "strWidth": 558.78125
         },
         {
@@ -37408,7 +37408,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "¡Las MT no se rompen, así que puedes usarlas",
@@ -37488,7 +37488,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "es guiar a los entrenadores prometedores",
@@ -37504,7 +37504,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Nuestros fuertes Lideres, aquí en Sinnoh,",
@@ -37520,7 +37520,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "¡Asegurate de hablarme cuando",
@@ -38083,7 +38083,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Si pudieras obtener la Medalla del gimnasio en la",
@@ -38091,7 +38091,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ciudad, tambien podrías hacer esto.",
@@ -38099,7 +38099,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Por supuesto, primero tendrias que",
@@ -51728,7 +51728,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¡Somos del programa FUNyGames que",
+          "str": "¡Somos del programa Juegos Divertidos que",
           "strWidth": 502.765625
         },
         {
@@ -52363,7 +52363,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¡Has recibido",
+          "str": "¡Has recibido ",
           "strWidth": 172.65625
         },
         {
@@ -52414,7 +52414,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¡Has recibido",
+          "str": "¡Has recibido ",
           "strWidth": 172.65625
         },
         {
@@ -52526,7 +52526,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "del programa ¡Fun-and-Games!",
+          "str": "del programa ¡Juegos Divertidos!",
           "strWidth": 404.234375
         },
         {
@@ -53190,7 +53190,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "El show Fun-and-Games... ¿Quieres",
+          "str": "El show Juegos Divertidos... ¿Quieres",
           "strWidth": 453.484375
         },
         {
@@ -53258,19 +53258,11 @@
           "strWidth": 595.515625
         },
         {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "región de",
-          "strWidth": 124.078125
-        },
-        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Johto?",
+          "str": "región de Johto?",
           "strWidth": 87.046875
         }
       ]
@@ -53459,19 +53451,11 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "Sii, lo siento pero es incorrecto. Inténtalo de",
-          "strWidth": 578.265625
-        },
-        {
-          "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "nuevo.",
-          "strWidth": 86.265625
+          "str": "Mh, lo siento pero es incorrecto. Inténtalo de nuevo.",
+          "strWidth": 578.265625
         }
       ]
     },

@@ -10967,7 +10967,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "So far, you’ve taken ",
+                    "str": "Por ahora llevas ",
                     "strWidth": 268.375
                 },
                 {
@@ -10983,7 +10983,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns.",
+                    "str": " turnos.",
                     "strWidth": 78.953125
                 },
                 {
@@ -10991,7 +10991,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Do you think you’re in good time?",
+                    "str": "¿Crees que vas bien?",
                     "strWidth": 445.21875
                 }
             ]
@@ -11032,7 +11032,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You’ve had ",
+                    "str": "Te ha tomado ",
                     "strWidth": 156.28125
                 },
                 {
@@ -11048,7 +11048,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns.",
+                    "str": " turnos.",
                     "strWidth": 78.953125
                 },
                 {
@@ -11056,7 +11056,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Still think you can do it?",
+                    "str": "¿Aún crees que puedes hacerlo?",
                     "strWidth": 314.15625
                 }
             ]
@@ -11097,7 +11097,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You beat all three of us!",
+                    "str": "¡Nos has vencido a los tres!",
                     "strWidth": 313.34375
                 },
                 {
@@ -11105,7 +11105,7 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It took you ",
+                    "str": "Te ha tomado ",
                     "strWidth": 150.734375
                 },
                 {
@@ -11121,7 +11121,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns in all.",
+                    "str": " turnos en total.",
                     "strWidth": 150.34375
                 }
             ]
@@ -11151,7 +11151,7 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh, hey. Nice job, kiddo.",
+                    "str": "Oh, buen trabajo chaval.",
                     "strWidth": 329.078125
                 },
                 {
@@ -11159,7 +11159,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You met the requirement alright.",
+                    "str": "Has cumplido los requisitos perfectamente.",
                     "strWidth": 423.171875
                 },
                 {
@@ -11167,7 +11167,7 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "But who said we have to keep promises!",
+                    "str": "¡Pero quien dice que cumplamos nuestras promesas!",
                     "strWidth": 516.453125
                 },
                 {
@@ -11175,7 +11175,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fwahahaha...",
+                    "str": "Pffajajajaja...",
                     "strWidth": 167.609375
                 }
             ]

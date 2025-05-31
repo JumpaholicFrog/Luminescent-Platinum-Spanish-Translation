@@ -10032,7 +10032,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Te doy la bienvenida al Hall de la Fama,",
+          "str": "Te doy la bienvenida al Hall de la Fama, ",
           "strWidth": 527.15625
         },
         {
@@ -10083,7 +10083,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Te doy la bienvenida al Hall de la Fama,",
+          "str": "Te doy la bienvenida al Hall de la Fama, ",
           "strWidth": 527.15625
         },
         {
@@ -16621,7 +16621,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Ah, ¡Hola,",
+          "str": "Ah, ¡Hola, ",
           "strWidth": 132.953125
         },
         {
@@ -16744,7 +16744,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hasta luego,",
+          "str": "¡Hasta luego, ",
           "strWidth": 173.015625
         },
         {
@@ -21639,7 +21639,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Recuerdo haberte visto en Pueblo Hojaverde,",
+          "str": "Recuerdo haberte visto en Pueblo Hojaverde, ",
           "strWidth": 591.859375
         },
         {
@@ -29229,7 +29229,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Da igual,",
+          "str": "Da igual, ",
           "strWidth": 117.359375
         },
         {
@@ -31648,8 +31648,8 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "",
@@ -31665,7 +31665,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": ", Me alegra verte",
@@ -31681,7 +31681,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Si no te importa, hagamos equipo.",
@@ -33349,7 +33349,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¿Eh? ¡Vamos a echar un vistazo,",
+          "str": "¿Eh? ¡Vamos a echar un vistazo, ",
           "strWidth": 412.140625
         },
         {
@@ -33965,7 +33965,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "No entiendo nada... En fin, vámonos de aquí,",
+          "str": "No entiendo nada... En fin, vámonos de aquí, ",
           "strWidth": 586.390625
         },
         {
@@ -43883,7 +43883,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": ", has visitado el Parque Destierro recientemente?",
+          "str": ", has visitado el Parque Renegado recientemente?",
           "strWidth": 636.84375
         },
         {
@@ -43950,7 +43950,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": ", has visitado el Parque Destierro recientemente?",
+          "str": ", has visitado el Parque Renegado recientemente?",
           "strWidth": 636.84375
         },
         {
@@ -51740,7 +51740,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Me alegra ver que has llegado hasta aquí,",
+          "str": "Me alegra ver que has llegado hasta aquí, ",
           "strWidth": 543.546875
         },
         {
@@ -57965,7 +57965,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Coje este repelente también.",
+          "str": "Coge este repelente también.",
           "strWidth": 376.78125
         },
         {
@@ -59667,7 +59667,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ehh! ¡Lo siento,",
+          "str": "¡Ehh! ¡Lo siento, ",
           "strWidth": 207.78125
         },
         {
@@ -61358,7 +61358,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oh,",
+          "str": "¡Oh, ",
           "strWidth": 57.46875
         },
         {
@@ -61827,7 +61827,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "seguir luchando contigo,",
+          "str": "seguir luchando contigo, ",
           "strWidth": 318.578125
         },
         {
@@ -67595,7 +67595,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh,",
+          "str": "Oh, ",
           "strWidth": 48.796875
         },
         {
@@ -67656,7 +67656,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Si uso Vuelo, puedo llegar al instante,",
@@ -67672,7 +67672,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Estoy acostumbrado al frío, pero se necesita",
@@ -67688,7 +67688,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Especialmente porque llevo poca ropa",
@@ -67704,7 +67704,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "También es importante que tus Pokémon",
@@ -67779,7 +67779,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "De verdad, ¡No tengo nada de frío!",
+          "str": "De verdad, ¡no tengo nada de frío!",
           "strWidth": 459.046875
         },
         {
@@ -67870,7 +67870,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¿Tu nombre es",
+          "str": "¿Tu nombre es ",
           "strWidth": 184.53125
         },
         {
@@ -69694,7 +69694,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Vale, tu nombre es",
+          "str": "Vale, tu nombre es ",
           "strWidth": 245.328125
         },
         {
@@ -69714,7 +69714,7 @@
           "strWidth": 7.90625
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
@@ -69724,7 +69724,7 @@
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0,
           "str": "",
           "strWidth": -1
@@ -69739,7 +69739,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Siento ser tan brusca, pero ¿podemos tener",
@@ -69932,7 +69932,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "decidió ir con Maiza!",
+          "str": " decidió ir con Maiza!",
           "strWidth": 271.3125
         }
       ]
@@ -70103,7 +70103,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que vuelvas,",
+          "str": "que vuelvas, ",
           "strWidth": 160.625
         },
         {
@@ -70170,7 +70170,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "de verte,",
+          "str": "de verte, ",
           "strWidth": 116.46875
         },
         {
@@ -70595,7 +70595,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que hayas vuelto,",
+          "str": "que hayas vuelto, ",
           "strWidth": 227.671875
         },
         {
@@ -70998,7 +70998,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Aquí tenemos a la encantadora Ms. Idol,",
+          "str": "Aquí tenemos a la encantadora Señora Famosa,",
           "strWidth": 525.90625
         },
         {
@@ -71014,7 +71014,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eres una cantante maravillosa, Ms. Idol.",
+          "str": "Eres una cantante maravillosa, Señora Famosa.",
           "strWidth": 511.5
         },
         {
@@ -71454,7 +71454,7 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¿Oh, oh, oh?",
@@ -71462,7 +71462,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¿Te haces llamar entrenador?",
@@ -71478,7 +71478,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Es decir, Pokémon Reloj, o ¡Poké Reloj",
@@ -71494,7 +71494,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Madre mía, ¡eres un caso raro!",
@@ -71564,7 +71564,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "recibió un Poké Reloj!",
+          "str": " recibió un Poké Reloj!",
           "strWidth": 283.71875
         }
       ]
@@ -72281,7 +72281,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oye,",
+          "str": "¡Oye, ",
           "strWidth": 72.234375
         },
         {
@@ -72353,7 +72353,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "ahora mismo! ¡Vámos,",
+          "str": "ahora mismo! ¡Vámos, ",
           "strWidth": 283.5
         },
         {
@@ -72410,11 +72410,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oye,",
+          "str": "¡Oye, ",
           "strWidth": 72.234375
         },
         {
@@ -72427,7 +72427,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "!",
@@ -72443,7 +72443,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¿Yo? ¡Siempre estoy genial!",
@@ -72459,7 +72459,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Pero eso no es importante.",
@@ -72475,7 +72475,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "son más fuertes que nunca.",
@@ -72490,17 +72490,17 @@
           "strWidth": 413.40625
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "ahora mismo,",
+          "str": "ahora mismo, ",
           "strWidth": 172.203125
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0,
           "str": "",
           "strWidth": -1
@@ -72553,7 +72553,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "son increíbles,",
+          "str": "son increíbles, ",
           "strWidth": 184.640625
         },
         {
@@ -72812,7 +72812,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola,",
+          "str": "¡Hola, ",
           "strWidth": 79.75
         },
         {
@@ -72983,7 +72983,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "De hecho,",
+          "str": "De hecho, ",
           "strWidth": 133.8125
         },
         {
@@ -73050,7 +73050,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Muy buena pelea,",
+          "str": "Muy buena pelea, ",
           "strWidth": 234.046875
         },
         {
@@ -73149,7 +73149,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hola,",
+          "str": "Hola, ",
           "strWidth": 71.078125
         },
         {
@@ -73355,7 +73355,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Gracias por la pelea,",
+          "str": "Gracias por la pelea, ",
           "strWidth": 270.90625
         },
         {
@@ -73502,7 +73502,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ey,",
+          "str": "¡Ey, ",
           "strWidth": 47.71875
         },
         {
@@ -73691,7 +73691,7 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Oh, oye!",
@@ -73699,7 +73699,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Cuando nos dimos un golpe, ¡me llegó",
@@ -73715,7 +73715,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Una forma fácil de convertirse en un gran",
@@ -73731,7 +73731,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Sí, eso!",
@@ -73747,7 +73747,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Escucha bien...",
@@ -73763,7 +73763,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Esquiva los ataques enemigos!",
@@ -73779,7 +73779,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Serías un entrenador invencible!",
@@ -74358,7 +74358,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "está feliz. ¡Estoy seguro!",
+          "str": "está feliz. ¡Estoy segura!",
           "strWidth": 311.84375
         }
       ]
@@ -76070,7 +76070,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "una vuelta por el Parque Destierro?",
+          "str": "una vuelta por el Parque Renegado?",
           "strWidth": 460.59375
         },
         {
@@ -77253,11 +77253,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola",
+          "str": "¡Hola ",
           "strWidth": 70.921875
         },
         {
@@ -77270,7 +77270,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "!",
@@ -77286,7 +77286,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Estoy aquí para hacerte saber",
@@ -77297,12 +77297,12 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que el Parque Destierro está cerrado hasta previo",
+          "str": "que el Parque Renegado está cerrado hasta previo",
           "strWidth": 644.28125
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "aviso.",
@@ -77326,7 +77326,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "después de ciertos eventos.",
@@ -77345,7 +77345,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "el Parque Hansa. Te mantendremos informado.",
+          "str": "el Parque Renegado. Te mantendremos informado.",
           "strWidth": 607.484375
         }
       ]
@@ -77622,7 +77622,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Después de que nuestro último aspirante saliera",
@@ -77638,7 +77638,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Acerón se fue a las Islas Hierro para tomar un",
@@ -77654,7 +77654,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Puedes ir allí a buscarlo,",
@@ -77670,7 +77670,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Habla con Eldritch!",
@@ -77686,7 +77686,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Tú también deberías entrenar un poco.",
@@ -77740,7 +77740,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Vale, eres",
+          "str": "Vale, eres ",
           "strWidth": 129.65625
         },
         {
@@ -78921,7 +78921,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Siento decepcionarte después de haber",
@@ -78929,7 +78929,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "recorrido un largo camino, pero...",
@@ -78945,7 +78945,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "ahora mismo.",
@@ -78961,7 +78961,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "busca de un Pokémon de tipo Planta.",
@@ -78977,7 +78977,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "vas y hablas con ella.",
@@ -78993,7 +78993,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "aquí, a través del Monte Corona.",
@@ -79009,7 +79009,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Pokémon Hielo en la Ruta 216.",
@@ -79025,7 +79025,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Los Pokémon de este Gimnasio odian a los de",
@@ -79223,7 +79223,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ey,",
+          "str": "¡Ey, ",
           "strWidth": 47.71875
         },
         {
@@ -79954,7 +79954,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hasta ahora, llevas",
+          "str": "Por ahora llevas",
           "strWidth": 245.75
         },
         {
@@ -80176,7 +80176,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Dispara, el Pokémon espacial ha escapado!",
+          "str": "¡Mierda, el Pokémon espacial ha escapado!",
           "strWidth": 569.546875
         },
         {
@@ -80534,7 +80534,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Vale,",
+          "str": "¡Vale, ",
           "strWidth": 76.546875
         },
         {
@@ -80683,7 +80683,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ahí está,",
+          "str": "¡Ahí está, ",
           "strWidth": 122.3125
         },
         {
@@ -80704,7 +80704,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Ahora a correr!",
@@ -80744,7 +80744,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Te sorprenderé la próxima vez",
@@ -80864,7 +80864,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Un inusual Huevo Pokémon azul.",
@@ -80880,7 +80880,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Lo digo porque me gustaría que te",
@@ -80896,7 +80896,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "valentía y destreza de hoy.",
@@ -81502,7 +81502,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Pero mis Pokémon no pueden aprenderlo...",
@@ -81580,7 +81580,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ey,",
+          "str": "¡Ey, ",
           "strWidth": 47.71875
         },
         {
@@ -81881,7 +81881,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Escucha, ella es joven, pero es una genio.",
@@ -82476,7 +82476,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "criminal del Equipo Galaxia.",
@@ -82492,7 +82492,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "La escala de su criminalidad parece",
@@ -82524,7 +82524,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Hay que investigar su almacén.",
@@ -83178,7 +83178,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Así que,",
+          "str": "Así que, ",
           "strWidth": 105.578125
         },
         {
@@ -84181,7 +84181,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oye",
+          "str": "¡Oye ",
           "strWidth": 63.40625
         },
         {
@@ -84557,7 +84557,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Joder, Looker, ¡Esta vez la has cagado",
+          "str": "Joder, Handsome, ¡Esta vez la has cagado",
           "strWidth": 497.203125
         },
         {
@@ -85672,7 +85672,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "examinó la antigua",
+          "str": " examinó la antigua",
           "strWidth": 244.8125
         },
         {
@@ -86069,7 +86069,7 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "...Extraordinario.",
@@ -86077,10 +86077,10 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Pero anciano, tu actitud me dijo lo",
+          "str": "Pero anciana, tu actitud me dijo lo",
           "strWidth": 448.828125
         },
         {
@@ -86093,7 +86093,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Si los seres del tiempo y el espacio",
@@ -86253,7 +86253,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "El tiempo y el espacio de Sinnoh",
@@ -86269,7 +86269,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "de innumerables personas y Pokémon.",
@@ -86285,7 +86285,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¿Qué necesidad hay de cambiarlo?",
@@ -86301,7 +86301,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Deberías cogerlo.",
@@ -88339,7 +88339,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "No la necesitabas,",
+          "str": "No la necesitabas, ",
           "strWidth": 238.03125
         },
         {
@@ -89030,7 +89030,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Sin embargo,",
+          "str": "Sin embargo, ",
           "strWidth": 170.375
         },
         {
@@ -89630,7 +89630,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Me has hecho esperar de nuevo,",
+          "str": "Me has hecho esperar de nuevo, ",
           "strWidth": 421.6875
         },
         {
@@ -89726,15 +89726,15 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Waaa!",
+          "str": "¡Aaaaj!",
           "strWidth": 90.46875
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Esto demuestra que mi estrategia ganadora",
@@ -89745,16 +89745,8 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "infalible no funciona.",
+          "str": "infalible no funciona. ",
           "strWidth": 273.140625
-        },
-        {
-          "patternID": 7,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0,
-          "str": "",
-          "strWidth": 0
         },
         {
           "patternID": 5,
@@ -89774,7 +89766,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Asegúrate que tus ataques impacten!",
@@ -89790,7 +89782,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Pensé que era una estrategia infalible,",
@@ -89806,7 +89798,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Supongo que tengo que esforzarme",
@@ -90030,7 +90022,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Si dejas un par de Pokémon en la Guardería,",
@@ -90046,7 +90038,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "O cosas parecidas a huevos.",
@@ -90062,7 +90054,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Prof. Elm.",
@@ -90410,7 +90402,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Me has hecho esperar de nuevo,",
+          "str": "Me has hecho esperar de nuevo, ",
           "strWidth": 421.6875
         },
         {
@@ -91226,7 +91218,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oh,",
+          "str": "¡Oh, ",
           "strWidth": 57.46875
         },
         {
@@ -91322,7 +91314,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "De todas formas,",
+          "str": "De todas formas, ",
           "strWidth": 221.65625
         },
         {
@@ -91487,7 +91479,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh,",
+          "str": "Oh, ",
           "strWidth": 48.796875
         },
         {
@@ -91583,7 +91575,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Así que,",
+          "str": "Así que, ",
           "strWidth": 105.578125
         },
         {
@@ -91698,7 +91690,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola,",
+          "str": "¡Hola, ",
           "strWidth": 79.75
         },
         {
@@ -91799,7 +91791,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Guau,",
+          "str": "Guau, ",
           "strWidth": 78.609375
         },
         {
@@ -91863,7 +91855,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Buena suerte,",
+          "str": "Buena suerte, ",
           "strWidth": 175.96875
         },
         {
@@ -91922,7 +91914,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Ey,",
+          "str": "Ey, ",
           "strWidth": 39.046875
         },
         {
@@ -92031,7 +92023,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eres impresionante,",
+          "str": "Eres impresionante, ",
           "strWidth": 252.4375
         },
         {
@@ -92087,7 +92079,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Mucha suerte,",
+          "str": "Mucha suerte, ",
           "strWidth": 182.625
         },
         {
@@ -92199,7 +92191,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh,",
+          "str": "Oh, ",
           "strWidth": 48.796875
         },
         {
@@ -92327,7 +92319,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh,",
+          "str": "Oh, ",
           "strWidth": 48.796875
         },
         {
@@ -108024,7 +108016,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Estoy desarrollando un nuevo régimen de entrenamiento",
+          "str": "¡Estoy desarrollando un nuevo entrenamiento",
           "strWidth": 525.578125
         },
         {
@@ -108105,7 +108097,7 @@
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Bueno, quería hacerle un regalo a alguien...",
-          "strWidth": 737.828125
+          "strWidth": 637.828125
         },
         {
           "patternID": 7,
@@ -111263,7 +111255,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que habla de un Pokémon Fantasma",
+          "str": "que habla de un nefasto Pokémon",
           "strWidth": 454.234375
         },
         {
@@ -111271,7 +111263,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "nefario que, de algún modo,",
+          "str": "Fantasma que, de algún modo,",
           "strWidth": 464.03125
         },
         {
@@ -111431,10 +111423,18 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Aún tienes asuntos pendientes con nuestro Líder de Gimnasio.",
+          "str": "Aún tienes asuntos pendientes con",
           "strWidth": 577.859375
         },
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0,
+          "str": "nuestro Líder de Gimnasio.",
+          "strWidth": 484.265625
+        },
+                {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
@@ -113643,7 +113643,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Descansa en paz, Dudu. Fuiste la mejor serpiente de roca",
+          "str": "Descansa en paz, Dudu. Fuiste la mejor serpiente",
           "strWidth": 647.84375
         },
         {
@@ -113651,7 +113651,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que uno podría desear.",
+          "str": "de roca que uno podría desear.",
           "strWidth": 253.984375
         }
       ]
