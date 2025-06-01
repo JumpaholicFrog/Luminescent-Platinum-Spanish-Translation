@@ -4560,7 +4560,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¡Hm! Un total de",
+          "str": "¡Hm! Un total de ",
           "strWidth": 194.0625
         },
         {
@@ -4699,7 +4699,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Ah, sí,",
+          "str": "Ah, sí, ",
           "strWidth": 116.828125
         },
         {

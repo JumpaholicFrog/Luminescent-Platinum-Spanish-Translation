@@ -3962,7 +3962,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eso significa que si consigues vencer a este Líder de",
+          "str": "Eso significa que si consigues vencer",
           "strWidth": 641.9375
         },
         {
@@ -3970,7 +3970,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Gimnasio,",
+          "str": "a este Líder de Gimnasio,",
           "strWidth": 129.640625
         },
         {
@@ -11473,8 +11473,8 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "",
@@ -11490,7 +11490,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": ", traté de entrar en el Frente Batalla,",
@@ -11506,7 +11506,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Entonces, vinieron estos tipos y no",
@@ -11522,7 +11522,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Dicen que quieren comprobar si soy",
@@ -11538,7 +11538,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Como si yo necesitase demostrar algo.",
@@ -11554,7 +11554,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Como en las Columnas Lanza!",
@@ -16666,7 +16666,7 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Por cierto, ese hombre con el que estabas",
@@ -16674,7 +16674,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "hablando...",
@@ -16690,7 +16690,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "propios medios.",
@@ -58711,7 +58711,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eres un entrenador Pokémon, ¿verdad?",
+          "str": "Eres un Entrenador Pokémon, ¿verdad?",
           "strWidth": 502.21875
         },
         {
@@ -61691,7 +61691,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Pero necesitas la medalla Carámbano",
@@ -61707,7 +61707,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "¡Y ahí es donde entro yo!",
@@ -61718,24 +61718,16 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Como la líder de Puntaneva,",
+          "str": "Como la líder de Puntaneva, estaré",
           "strWidth": 369.125
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "estaré esperando dentro del Gimnasio de la",
+          "str": "estaré esperando dentro del Gimnasio de la ciudad.",
           "strWidth": 570.015625
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0,
-          "str": "ciudad.",
-          "strWidth": 94.90625
         },
         {
           "patternID": 0,
@@ -63546,7 +63538,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Oh, un entrenador!",
+          "str": "¡Oh, un Entrenador!",
           "strWidth": 255.421875
         },
         {
@@ -63954,7 +63946,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola, entrenador! ¿Tienes frío?",
+          "str": "¡Hola, Entrenador! ¿Tienes frío?",
           "strWidth": 406.3125
         },
         {
@@ -64026,7 +64018,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola entrenador!",
+          "str": "¡Hola Entrenador!",
           "strWidth": 229.046875
         },
         {
@@ -64277,7 +64269,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Muchísimas gracias, entrenador!",
+          "str": "¡Muchísimas gracias, Entrenador!",
           "strWidth": 421.171875
         }
       ]
@@ -64749,7 +64741,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Saludos, joven entrenador.",
+          "str": "Saludos, joven Entrenador.",
           "strWidth": 346.4375
         },
         {
@@ -64949,7 +64941,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oye entrenador, ¿es Gyarados un pez?",
+          "str": "Oye Entrenador, ¿es Gyarados un pez?",
           "strWidth": 501.046875
         },
         {
@@ -65109,7 +65101,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Entrenador, querido entrenador.",
+          "str": "Entrenador, querido Entrenador.",
           "strWidth": 418.859375
         },
         {
@@ -65301,7 +65293,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh, ¿eres un entrenador?",
+          "str": "Oh, ¿eres un Entrenador?",
           "strWidth": 324.40625
         },
         {
@@ -65461,7 +65453,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh, ¿Eres un entrenador?",
+          "str": "Oh, ¿Eres un Entrenador?",
           "strWidth": 324.28125
         },
         {
@@ -65477,7 +65469,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Soy un entrenador que trata de perfeccionar",
+          "str": "Soy un Entrenador que trata de perfeccionar",
           "strWidth": 576.59375
         },
         {
@@ -65693,7 +65685,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Oh, eres entrenador, ¿no?",
+          "str": "Oh, eres Entrenador, ¿no?",
           "strWidth": 334.8125
         },
         {
@@ -66094,15 +66086,45 @@
         "controlID": 0
       },
       "attributeValueArray": [-1, 0, 0, -1, 0],
-      "tagDataArray": [],
+      "tagDataArray": [
+                {
+            "tagIndex": -1,
+            "groupID": 23,
+            "tagID": 0,
+            "tagPatternID": 5,
+            "forceArticle": 0,
+            "tagParameter": 255,
+            "tagWordArray": [
+                "o",
+                "a"
+            ],
+            "forceGrmID": 0
+        }
+      ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 3,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Que tal, amigo.",
+          "str": "Que tal, amig",
           "strWidth": 202.109375
+        },
+        {
+            "patternID": 5,
+            "eventID": 0,
+            "tagIndex": 0,
+            "tagValue": 0.0,
+            "str": "",
+            "strWidth": -1.0
+        },
+                        {
+            "patternID": 7,
+            "eventID": 1,
+            "tagIndex": -1,
+            "tagValue": 0.0,
+            "str": ".",
+            "strWidth": 65.390625
         },
         {
           "patternID": 7,
@@ -66181,7 +66203,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Eres un entrenador increíble!",
+          "str": "¡Eres un Entrenador increíble!",
           "strWidth": 379.65625
         },
         {
@@ -66317,7 +66339,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "técnica, entrenador!",
+          "str": "técnica, Entrenador!",
           "strWidth": 259.359375
         },
         {
@@ -66557,7 +66579,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Como entrenador, me siento obligado",
+          "str": "Como Entrenador, me siento obligado",
           "strWidth": 495.265625
         },
         {
@@ -66872,7 +66894,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola entrenador!",
+          "str": "¡Hola Entrenador!",
           "strWidth": 229.046875
         },
         {
@@ -67024,7 +67046,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "mostrará tu experiencia como entrenador.",
+          "str": "mostrará tu experiencia como Entrenador.",
           "strWidth": 542.0625
         }
       ]
@@ -69233,7 +69255,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Bien jugado entrenador,",
+          "str": "Bien jugado Entrenador,",
           "strWidth": 313.65625
         },
         {
@@ -69734,7 +69756,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": ", ¿eres un entrenador fuerte?",
+          "str": ", ¿eres un Entrenador fuerte?",
           "strWidth": 370.09375
         },
         {
@@ -71465,7 +71487,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¿Te haces llamar entrenador?",
+          "str": "¿Te haces llamar Entrenador?",
           "strWidth": 375.28125
         },
         {
@@ -71741,7 +71763,21 @@
         "controlID": 0
       },
       "attributeValueArray": [-1, 0, 0, -1, 0],
-      "tagDataArray": [],
+      "tagDataArray": [                
+        {
+            "tagIndex": -1,
+            "groupID": 23,
+            "tagID": 0,
+            "tagPatternID": 5,
+            "forceArticle": 0,
+            "tagParameter": 255,
+            "tagWordArray": [
+                "o",
+                "a"
+            ],
+            "forceGrmID": 0
+        }
+              ],
       "wordDataArray": [
         {
           "patternID": 7,
@@ -71776,19 +71812,43 @@
           "strWidth": 61.84375
         },
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Pero, amigo mío, te sugiero que",
+          "str": "¡Pero, amig",
           "strWidth": 423.71875
+        },
+        {
+            "patternID": 5,
+            "eventID": 0,
+            "tagIndex": 0,
+            "tagValue": 0.0,
+            "str": "",
+            "strWidth": -1.0
+        },
+         {
+            "patternID": 0,
+            "eventID": 0,
+            "tagIndex": -1,
+            "tagValue": 0.0,
+            "str": " mí",
+            "strWidth": 20.1875
+        },
+          {
+            "patternID": 5,
+            "eventID": 0,
+            "tagIndex": 0,
+            "tagValue": 0.0,
+            "str": "",
+            "strWidth": -1.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "no bajes la guardia!",
+          "str": ", te sugiero que no bajes la guardia!",
           "strWidth": 253.359375
         }
       ]
@@ -71852,7 +71912,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Todos los entrenadores Pokémon que se precien",
+          "str": "Todos los Entrenadores Pokémon que se precien",
           "strWidth": 630.359375
         },
         {
@@ -71893,15 +71953,45 @@
         "controlID": 0
       },
       "attributeValueArray": [-1, 0, 0, -1, 0],
-      "tagDataArray": [],
+      "tagDataArray": [
+                        {
+                    "tagIndex": -1,
+                    "groupID": 23,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+      ],
       "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
+               {
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Hola amigo!",
+          "str": "¡Hola amig",
           "strWidth": 165.828125
+        },
+        {
+            "patternID": 5,
+            "eventID": 0,
+            "tagIndex": 0,
+            "tagValue": 0.0,
+            "str": "",
+            "strWidth": -1.0
+        },
+                        {
+            "patternID": 7,
+            "eventID": 3,
+            "tagIndex": -1,
+            "tagValue": 0.0,
+            "str": "!",
+            "strWidth": 20.1875
         },
         {
           "patternID": 7,
@@ -72148,7 +72238,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "de su entrenador desde Cueva Extravío!",
+          "str": "de su Entrenador desde Cueva Extravío!",
           "strWidth": 516.5
         },
         {
@@ -72625,7 +72715,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "encontrar entrenadores que quieran una",
+          "str": "encontrar Entrenadores que quieran una",
           "strWidth": 519.5
         },
         {
@@ -72753,7 +72843,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "encontrar entrenadores que quieran",
+          "str": "encontrar Entrenadores que quieran",
           "strWidth": 464.375
         },
         {
@@ -73782,7 +73872,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Serías un entrenador invencible!",
+          "str": "¡Serías un Entrenador invencible!",
           "strWidth": 422.171875
         },
         {
@@ -75262,7 +75352,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "para entrenadores en Jubileo TV!",
+          "str": "para Entrenadores en Jubileo TV!",
           "strWidth": 431.78125
         },
         {
@@ -75582,7 +75672,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eres un entrenador, pero...",
+          "str": "Eres un Entrenador, pero...",
           "strWidth": 344.921875
         },
         {
@@ -75798,7 +75888,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "entrenador hasta la médula!",
+          "str": "Entrenador hasta la médula!",
           "strWidth": 360.90625
         },
         {
@@ -76414,7 +76504,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Darach! ¿esta persona es un entrenador, verdad?",
+          "str": "¡Darach! ¿esta persona es un Entrenador, verdad?",
           "strWidth": 637.46875
         }
       ]
@@ -77294,7 +77384,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "que el Parque Renegado está cerrado hasta previo",
@@ -77302,7 +77392,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "aviso.",
@@ -77310,7 +77400,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "El motivo es porque puedes encontrar",
@@ -77318,7 +77408,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "todos los Pokémon legendarios por el mundo",
@@ -77326,7 +77416,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 4,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "después de ciertos eventos.",
@@ -77334,7 +77424,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Aún no hemos decidido qué hacer con",
@@ -77788,7 +77878,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "otro entrenador.",
+          "str": "otro Entrenador.",
           "strWidth": 212.78125
         },
         {
@@ -78452,7 +78542,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Observe, si quiere, ese agujero.",
+          "str": "Observa, si quieres, ese agujero.",
           "strWidth": 410.890625
         },
         {
@@ -86835,7 +86925,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Pensé en lo que implica ser entrenador.",
+          "str": "Pensé en lo que implica ser Entrenador.",
           "strWidth": 512.109375
         },
         {
@@ -86888,7 +86978,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "fuerte que yo.",
@@ -86904,7 +86994,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Solo un poco.",
@@ -86920,7 +87010,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Nah, ni siquiera un metro.",
@@ -86936,7 +87026,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "alcanzaré en poco tiempo.",
@@ -86992,7 +87082,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Debe ser maravilloso tener un amigo así.",
@@ -87008,7 +87098,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "cualquier cosa.",
@@ -87024,7 +87114,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "sin pelear.",
@@ -87040,7 +87130,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Puede parecer extraño, pero me gustaría que",
@@ -88291,16 +88381,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Después de que te fuiste, el profesor investigó",
+          "str": "Después de que te fueras,",
           "strWidth": 605.640625
         },
         {
-          "patternID": 7,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0,
-          "str": "mucho.",
-          "strWidth": 92.890625
+            "patternID": 7,
+            "eventID": 3,
+            "tagIndex": -1,
+            "tagValue": 0.0,
+            "str": "el profesor investigó mucho. ",
+            "strWidth": 374.828125
         },
         {
           "patternID": 5,
@@ -88320,7 +88410,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Se puso en contacto con gente que conoce",
@@ -88335,7 +88425,7 @@
           "strWidth": 299.59375
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
@@ -88352,7 +88442,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": ".",
@@ -89670,7 +89760,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Ey, ahora eres entrenador. Seguro",
+          "str": "Ey, ahora eres Entrenador. Seguro",
           "strWidth": 439.921875
         },
         {
@@ -90185,7 +90275,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "entrenadora una y otra vez.",
+          "str": "Entrenadora una y otra vez.",
           "strWidth": 356.140625
         },
         {
@@ -90442,7 +90532,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Ey, ahora eres entrenador. Seguro",
+          "str": "Ey, ahora eres Entrenador. Seguro",
           "strWidth": 439.921875
         },
         {
@@ -91815,7 +91905,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "convertido en un gran entrenador!",
+          "str": "convertido en un gran Entrenador!",
           "strWidth": 442.046875
         },
         {
@@ -92019,7 +92109,7 @@
           "strWidth": 23.71875
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
@@ -92044,7 +92134,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "No puedo creer que seas la misma persona",
@@ -92075,7 +92165,7 @@
           "strWidth": 127.578125
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
@@ -92092,7 +92182,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": ".",
@@ -93629,7 +93719,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "De hecho, una vez conocí a un joven entrenador",
+          "str": "De hecho, una vez conocí a un joven Entrenador",
           "strWidth": 628.203125
         },
         {
@@ -94891,7 +94981,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Saludos entrenador.",
+          "str": "Saludos Entrenador.",
           "strWidth": 258.828125
         },
         {
@@ -94947,7 +95037,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "un digno entrenador, alégrate.",
+          "str": "un digno Entrenador, alégrate.",
           "strWidth": 396.109375
         },
         {
@@ -95171,7 +95261,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "entrenador capturando a estos Pokémon.",
+          "str": "Entrenador capturando a estos Pokémon.",
           "strWidth": 533.046875
         }
       ]
@@ -95259,7 +95349,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "para ti, entrenador?",
+          "str": "para ti, Entrenador?",
           "strWidth": 257.984375
         }
       ]
@@ -95347,7 +95437,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Considérate afortunado entrenador.",
+          "str": "Considérate afortunado Entrenador.",
           "strWidth": 466.578125
         },
         {
@@ -95390,7 +95480,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "",
+          "str": "¡",
           "strWidth": 0
         },
         {
@@ -95723,7 +95813,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Un mundo nuevo no es demasiado interesante.",
@@ -95739,7 +95829,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "gobernará ese nuevo mundo.",
@@ -95755,7 +95845,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "Una oportunidad para disfrutar de sus dulces.",
@@ -95771,7 +95861,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
           "str": "realice su sueño.",
@@ -96166,7 +96256,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hay diecisiete entrenadores Maestros de Tipos",
+          "str": "Hay diecisiete Entrenadores Maestros de Tipos",
           "strWidth": 609.296875
         },
         {
@@ -96254,7 +96344,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hay diecisiete entrenadores Maestros de Tipos",
+          "str": "Hay diecisiete Entrenadores Maestros de Tipos",
           "strWidth": 609.296875
         },
         {
@@ -98389,7 +98479,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hola, entrenador.",
+          "str": "Hola, Entrenador.",
           "strWidth": 229.84375
         },
         {
@@ -98677,7 +98767,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "este entrenador es más que suficientemente fuerte.",
+          "str": "este Entrenador es más que suficientemente fuerte.",
           "strWidth": 505.8125
         },
         {
@@ -98749,7 +98839,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Muy bien, entrenador. Este nuevo Onix es peligroso,",
+          "str": "Muy bien, Entrenador. Este nuevo Onix es peligroso,",
           "strWidth": 558.140625
         },
         {
@@ -99229,7 +99319,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Fausto, el maestro ardiente de los Pokémon de tipo Fuego,",
+          "str": "Fausto, el maestro ardiente de los Pokémon de",
           "strWidth": 500.625
         },
         {
@@ -99237,7 +99327,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡va a ponerte a prueba!",
+          "str": "tipo Fuego, ¡va a ponerte a prueba!",
           "strWidth": 393.375
         },
         {
@@ -100128,7 +100218,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Un entrenador en cada ruta.",
+          "str": "Un Entrenador en cada ruta.",
           "strWidth": 344.28125
         },
         {
@@ -105250,7 +105340,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Ah, entrenador!",
+          "str": "¡Ah, Entrenador!",
           "strWidth": 159.578125
         }
       ]
@@ -105482,7 +105572,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Te deseo lo mejor, entrenador.",
+          "str": "Te deseo lo mejor, Entrenador.",
           "strWidth": 311.6875
         }
       ]
@@ -105554,7 +105644,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Muy bien, entrenador. Te esperaré frente al",
+          "str": "Muy bien, Entrenador. Te esperaré frente al",
           "strWidth": 560.890625
         },
         {
@@ -106562,7 +106652,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Joven entrenador Pokémon,",
+          "str": "Joven Entrenador Pokémon,",
           "strWidth": 320.5625
         },
         {
@@ -106885,7 +106975,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hasta la vista, entrenador.",
+          "str": "Hasta la vista, Entrenador.",
           "strWidth": 207.203125
         }
       ]
@@ -107365,7 +107455,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "los demás entrenadores.",
+          "str": "los demás Entrenadores.",
           "strWidth": 221.578125
         },
         {
@@ -107421,7 +107511,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Entonces márchate, entrenador.",
+          "str": "Entonces márchate, Entrenador.",
           "strWidth": 280.25
         },
         {
@@ -107832,7 +107922,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Eres entrenador, ¿verdad?",
+          "str": "Eres Entrenador, ¿verdad?",
           "strWidth": 285.03125
         },
         {
@@ -107992,7 +108082,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Tienes pinta de ser un entrenador con",
+          "str": "¡Tienes pinta de ser un Entrenador con",
           "strWidth": 578.03125
         },
         {
@@ -108024,7 +108114,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "para entrenadores como tú!",
+          "str": "para Entrenadores como tú!",
           "strWidth": 213.21875
         },
         {
@@ -108568,7 +108658,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "entrenador.",
+          "str": "Entrenador.",
           "strWidth": 91.71875
         },
         {
@@ -108696,7 +108786,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "tres objetos, pero que ningún entrenador es lo bastante fuerte",
+          "str": "tres objetos, pero que ningún Entrenador es lo bastante fuerte",
           "strWidth": 598.34375
         },
         {
@@ -109406,7 +109496,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hola, entrenador.",
+          "str": "Hola, Entrenador.",
           "strWidth": 171.09375
         },
         {
@@ -109721,7 +109811,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Gracias, entrenador. Toma unas Escamas Corazón.",
+          "str": "Gracias, Entrenador. Toma unas Escamas Corazón.",
           "strWidth": 531.484375
         }
       ]
@@ -109953,7 +110043,7 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡Debes de ser un entrenador excelente!",
+          "str": "¡Debes de ser un Entrenador excelente!",
           "strWidth": 430.53125
         },
         {
@@ -110089,7 +110179,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "No negaré que eres un entrenador muy",
+          "str": "No negaré que eres un Entrenador muy",
           "strWidth": 396.640625
         },
         {
@@ -110449,7 +110539,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Que tengas un buen día, entrenador.",
+          "str": "Que tengas un buen día, Entrenador.",
           "strWidth": 239.765625
         }
       ]
@@ -110521,7 +110611,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¿Así que las leyendas eran ciertas? Gracias, entrenador.",
+          "str": "¿Así que las leyendas eran ciertas? Gracias, Entrenador.",
           "strWidth": 588.359375
         },
         {
@@ -110617,7 +110707,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Adiós, entrenador.",
+          "str": "Adiós, Entrenador.",
           "strWidth": 222.90625
         }
       ]
@@ -113723,7 +113813,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Por favor, entrenador, ¿has visto a mi",
+          "str": "Por favor, Entrenador, ¿has visto a mi",
           "strWidth": 422.96875
         },
         {
@@ -113771,7 +113861,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Por favor, entrenador, ayúdame a encontrarla.",
+          "str": "Por favor, Entrenador, ayúdame a encontrarla.",
           "strWidth": 413.421875
         },
         {
@@ -113843,7 +113933,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Muchísimas gracias, entrenador.",
+          "str": "Muchísimas gracias, Entrenador.",
           "strWidth": 348.40625
         },
         {
@@ -113883,7 +113973,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Por favor, encuentra a mi hija, entrenador.",
+          "str": "Por favor, encuentra a mi hija, Entrenador.",
           "strWidth": 367.578125
         }
       ]
@@ -114811,7 +114901,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hola de nuevo, entrenador.",
+          "str": "Hola de nuevo, Entrenador.",
           "strWidth": 258.5625
         },
         {
@@ -114891,7 +114981,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hola entrenador, esperaba que vinieras a",
+          "str": "Hola Entrenador, esperaba que vinieras a",
           "strWidth": 575.0625
         },
         {
@@ -115195,7 +115285,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Que tengas un buen día, entrenador.",
+          "str": "Que tengas un buen día, Entrenador.",
           "strWidth": 317.953125
         }
       ]
@@ -115219,7 +115309,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Saludos, entrenador.",
+          "str": "Saludos, Entrenador.",
           "strWidth": 226.25
         },
         {
@@ -115323,7 +115413,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Hay muchos entrenadores fuertes",
+          "str": "Hay muchos Entrenadores fuertes",
           "strWidth": 407.46875
         },
         {
@@ -115526,7 +115616,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "los entrenadores como \"Legendarios\" o \"Míticos\".",
+          "str": "los Entrenadores como \"Legendarios\" o \"Míticos\".",
           "strWidth": 473.28125
         },
         {
