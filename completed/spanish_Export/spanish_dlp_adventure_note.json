@@ -7990,7 +7990,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Este objeto activable te permite encontrar",
+          "str": "Activa el Quemador de Incienso para encontrar nuevos",
           "strWidth": 657.078125
         },
         {
@@ -7998,7 +7998,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "<color=#F01E1EFF>Pokémon Regionales</color>!",
+          "str": "Pokémon Regionales de las Generaciones 1-4",
           "strWidth": 521.078125
         },
         {
@@ -8006,7 +8006,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Elegir una flor es para Luminescent 3.0, cuando",
+          "str": "Las regiones que elijas no supondrán ninguna",
           "strWidth": 567.203125
         },
         {
@@ -8014,7 +8014,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "todos los Pokémon estarán disponibles en estado salvaje.",
+          "str": "diferencia. Todas habilitarán los mismos ",
           "strWidth": 620.453125
         },
         {
@@ -8022,7 +8022,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Consulta luminescent.team para más detalles.",
+          "str": "Pokémon Regionales de la versión actual",
           "strWidth": 501.796875
         }
       ]
@@ -8046,7 +8046,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Este objeto activable te permite encontrar",
+          "str": "Activa el Quemador de Incienso para encontrar nuevos",
           "strWidth": 657.078125
         },
         {
@@ -8054,7 +8054,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "<color=#F01E1EFF>Pokémon Regionales</color>!",
+          "str": "Pokémon Regionales de las Generaciones 1-4",
           "strWidth": 521.078125
         },
         {
@@ -8062,72 +8062,24 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Elegir una flor es para Luminescent 3.0, cuando",
-          "strWidth": 606.734375
+          "str": "Las regiones que elijas no supondrán ninguna",
+          "strWidth": 567.203125
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "todos los Pokémon estarán disponibles en estado salvaje.",
-          "strWidth": 580.921875
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "En la versión actual, todas las flores llevan a los mismos",
-          "strWidth": 621.515625
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "encuentros. \"Pokémon Regionales\" incluye cualquier",
-          "strWidth": 637.8125
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "especie hasta la 4.ª gen que tenga forma regional o",
-          "strWidth": 528.125
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "evoluciones regionales (Braviary no está en la 4.ª gen, así que no está",
-          "strWidth": 624.90625
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "ni Braviary ni Braviary de Hisui).",
-          "strWidth": 375.53125
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "Puedes encontrar más información en",
-          "strWidth": 446.4375
+          "str": "diferencia. Todas habilitarán los mismos ",
+          "strWidth": 620.453125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "https://luminescent.team/.",
-          "strWidth": 331.265625
+          "str": "Pokémon Regionales de la versión actual",
+          "strWidth": 501.796875
         }
       ]
     },
@@ -8174,7 +8126,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¡El <color=#F01E1EFF>Recuerda-movimientos</color> está ahora en el!",
+          "str": "¡El <color=#F01E1EFF>Recuerda-movimientos</color> está ahora en el menú!",
           "strWidth": 609.0
         },
         {

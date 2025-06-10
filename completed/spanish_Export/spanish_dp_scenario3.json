@@ -110363,7 +110363,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "No ofrecemos soporte para Perla Reluciente.",
+          "str": "Algo no va bien con la instalación de tu mod.",
           "strWidth": 430.125
         },
         {
@@ -110371,15 +110371,15 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Las instrucciones de instalación están por algo.",
+          "str": "Asegúrate de seguir las instrucciones de tu juego y plataforma.",
           "strWidth": 470.15625
         },
-        {
+        { 
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Visita https://luminescent.team/",
+          "str": "Visita https://luminescent.team/install",
           "strWidth": 474.375
         }
       ]
@@ -113485,23 +113485,23 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Se ha detectado una instalación defectuosa de exefs.",
-          "strWidth": 368.15625
+          "str": "Algo no va bien con la instalación de tu mod.",
+          "strWidth": 430.125
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Las instrucciones de instalación existen por algo.",
+          "str": "Asegúrate de seguir las instrucciones de tu juego y plataforma.",
           "strWidth": 470.15625
         },
-        {
+        { 
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Por favor, visita https://luminescent.team/",
+          "str": "Visita https://luminescent.team/install",
           "strWidth": 474.375
         }
       ]

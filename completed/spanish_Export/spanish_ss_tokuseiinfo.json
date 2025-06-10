@@ -4363,7 +4363,7 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Si hace sol, aumenta su Ataque y su Defensa Especial,",
+                    "str": "Si hace sol, aumenta su Ataque Especial y su",
                     "strWidth": 700.78125
                 },
                 {
@@ -4371,7 +4371,7 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "así como los de sus aliados.",
+                    "str": "Defensa Especial, así como los de sus aliados.",
                     "strWidth": 356.921875
                 }
             ]
