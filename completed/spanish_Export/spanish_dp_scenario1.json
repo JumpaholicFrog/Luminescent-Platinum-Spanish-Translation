@@ -14301,7 +14301,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¿Qué tienes, cielo? ¿No te está esperando",
+          "str": "¿Qué pasa, cielo? ¿No te está esperando",
           "strWidth": 552.65625
         },
         {
@@ -14929,7 +14929,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Bienvenida a casa, ",
+          "str": "Bienvenido a casa, ",
           "strWidth": 239.8125
         },
         {
@@ -15004,7 +15004,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Bienvenida a casa,",
+          "str": "Bienvenido a casa, ",
           "strWidth": 239.8125
         },
         {
@@ -15071,7 +15071,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Bienvenida a casa,",
+          "str": "Bienvenido a casa, ",
           "strWidth": 239.8125
         },
         {
@@ -15138,7 +15138,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Bienvenida a casa,",
+          "str": "Bienvenido a casa, ",
           "strWidth": 239.8125
         },
         {
@@ -15205,7 +15205,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "¿Qué tienes, ",
+          "str": "¿Qué pasa, ",
           "strWidth": 173.265625
         },
         {
@@ -37568,7 +37568,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Le ha dado por montar Tormentas de arena para",
@@ -37584,7 +37584,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Pokémon unas gafas elegantes para protegerlos",
@@ -37600,7 +37600,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Escuché que si puedes quitarselas durante la",
@@ -38070,7 +38070,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Las rocas caídas deben romperse para que no",
+          "str": "Hay que romper las rocas que se desprenden",
           "strWidth": 592.015625
         },
         {
@@ -38078,7 +38078,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "estorben.",
+          "str": "e impiden el paso.",
           "strWidth": 121.046875
         },
         {
@@ -38086,7 +38086,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Si pudieras obtener la Medalla del gimnasio en la",
+          "str": "Si pudieras obtener la Medalla del gimnasio de la",
           "strWidth": 642.015625
         },
         {
@@ -38094,19 +38094,19 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "ciudad, tambien podrías hacer esto.",
+          "str": "ciudad, podrías hacerlo tu mismo.",
           "strWidth": 463.796875
         },
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Por supuesto, primero tendrias que",
           "strWidth": 453.015625
         },
         {
-          "patternID": 0,
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
@@ -49353,7 +49353,7 @@
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Normalmente no encuentras tesoros así",
@@ -50168,7 +50168,7 @@
           "strWidth": 23.71875
         },
         {
-          "patternID": 7,
+          "patternID": 0,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
@@ -50577,7 +50577,7 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Cierto, ",
+          "str": "¿Cierto, ",
           "strWidth": 89.515625
         },
         {

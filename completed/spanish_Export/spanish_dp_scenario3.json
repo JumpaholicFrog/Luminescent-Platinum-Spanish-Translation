@@ -57739,7 +57739,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "¡!",
+          "str": "¡...!",
           "strWidth": 15.9375
         },
         {
@@ -58842,7 +58842,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "recibió un Huevo Pokémon!",
+          "str": " recibió un Huevo Pokémon!",
           "strWidth": 358.109375
         }
       ]
@@ -75400,7 +75400,7 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "una ciudad llamada Ciudad Eterna.",
+          "str": "una ciudad llamada Ciudad Vetusta.",
           "strWidth": 453.1875
         },
         {
@@ -108167,10 +108167,18 @@
       "wordDataArray": [
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0,
+          "str": "Lo único que necesito de ti... son unas pocas",
+          "strWidth": 532.515625
+        },
+        {
+          "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Lo único que necesito de ti... son unas pocas chapas.",
+          "str": "chapas.",
           "strWidth": 532.515625
         },
         {
