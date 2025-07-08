@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
     folder = sys.argv[1]  # e.g. "translate", "review", "completed", "noStrings"
     PROJECT_ROOT = Path(__file__).parent
-    CLASSIFIED = PROJECT_ROOT / "classified_Files"
+    CLASSIFIED = PROJECT_ROOT / "completed"
     GITLOCALIZE = PROJECT_ROOT / "git_Localize"
 
     build_gitlocalize(CLASSIFIED, GITLOCALIZE, folder)

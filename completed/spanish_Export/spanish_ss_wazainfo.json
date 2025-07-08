@@ -18595,19 +18595,11 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "Entona una canción que daña al objetivo. Si otro Pokémon lo usa en",
-          "strWidth": 709.25
-        },
-        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "el mismo turno, ataca justo a continuación y la potencia del movimiento aumenta.",
+          "str": "Entona una canción que daña al objetivo. Si otro Pokémon lo usa en el mismo turno, ataca justo a continuación y la potencia del movimiento aumenta.",
           "strWidth": 449.125
         }
       ]
