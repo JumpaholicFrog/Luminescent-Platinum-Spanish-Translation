@@ -81408,7 +81408,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "cayó en la cama",
+          "str": " cayó en la cama",
           "strWidth": 208.6875
         },
         {
@@ -81467,7 +81467,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "y los Pokémon se curaron",
+          "str": " y los Pokémon se curaron",
           "strWidth": 329.546875
         },
         {
@@ -113741,7 +113741,7 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Descansa en paz, Dudu. Fuiste la mejor serpiente",
+          "str": "Descansa en paz, Dudu. Fuiste la mejor",
           "strWidth": 647.84375
         },
         {
@@ -113749,7 +113749,7 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "de roca que uno podría desear.",
+          "str": "serpiente de roca que uno podría desear.",
           "strWidth": 253.984375
         }
       ]
@@ -114109,15 +114109,15 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "Descansa en paz, Dudu. Fuiste la mejor serpiente de roca",
-          "strWidth": 660.703125
+          "str": "Descansa en paz, Dudu. Fuiste la mejor",
+          "strWidth": 647.84375
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0,
-          "str": "que uno podría desear.",
+          "str": "serpiente de roca que uno podría desear.",
           "strWidth": 253.984375
         }
       ]
